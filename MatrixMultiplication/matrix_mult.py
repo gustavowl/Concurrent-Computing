@@ -27,9 +27,9 @@ for i in range(len(content)):
 #multiplies matrices. matrixA x matrixB
 result = [] #declares result matrix
 #number of columns and rows is not verified
-for i in range(len(matrixA[0])): #supposes that matrix has at least 1 row
+for i in range(len(matrixA)): #supposes that matrix has at least 1 row
 	result2 = []
-	for j in range(len(matrixA)):
+	for j in range(len(matrixB[0])):
 		val = 0
 		for k in range(len(matrixB)):
 			val += matrixA[i][k] * matrixB[k][j]
