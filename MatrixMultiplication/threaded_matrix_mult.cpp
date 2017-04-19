@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <thread>
 
 using namespace std;
 
@@ -55,25 +56,52 @@ int** read_file(string path, int* number_of_rows, int* number_of_columns) {
 	return matrix;
 }
 
-int** multiply_matrix(int** matrix_a, int rows_a, int cols_a,
-	int** matrix_b, int rows_b, int cols_b, int* rows_c, int* cols_c) {
+void multiply_rows(int** matrix_a, int rows_a, int cols_a, int** matrix_b,
+	int rows_b, int cols_b, int** matrix_c, int start_row, int end_row) {
 
-	*rows_c = rows_a;
-	*cols_c = cols_b;
 	int val;
-	int** matrix_c = new int*[rows_a];
 
-	for (int i = 0; i < rows_a; i++)
-		matrix_c[i] = new int[cols_b];
-
-	for (int i = 0; i < rows_a; i++) {
-		cout << i << ' ';
+	for (int i = start_row; i <= end_row; i++) {
+		//cout << i << ' ';
 		for (int j = 0; j < cols_b; j++) {
 			val = 0;
 			for (int k = 0; k < rows_b; k++)
 				val += matrix_a[i][k] * matrix_b[k][j];
 			matrix_c[i][j] = val;
 		}
+	}
+}
+
+int** multiply_matrix(int** matrix_a, int rows_a, int cols_a, int** matrix_b, 
+	int rows_b, int cols_b, int* rows_c, int* cols_c, int qtt_threads) {
+
+	int** matrix_c = NULL;
+	if (qtt_threads >= 1 && qtt_threads <= rows_a) {
+		*rows_c = rows_a;
+		*cols_c = cols_b;
+
+		matrix_c = new int*[rows_a];
+
+		for (int i = 0; i < rows_a; i++)
+			matrix_c[i] = new int[cols_b];
+
+		thread thread_list[qtt_threads];
+		const int proportion = cols_b / qtt_threads;
+		int mod = cols_b % qtt_threads;
+		int first_row, last_row = 0;
+		for (int i = 0; i < qtt_threads; i++) {
+			last_row = first_row + proportion - 1;
+			if (mod > 0) {
+				last_row++;
+				mod--;
+			}
+			thread_list[i] = thread(multiply_rows, matrix_a, rows_a, cols_a, 
+				matrix_b, rows_b, cols_b, matrix_c, first_row, last_row);
+			first_row = last_row + 1;
+		}
+
+		for (int i = 0; i < qtt_threads; i++)
+			thread_list[i].join();
 	}
 
 	return matrix_c;
@@ -88,23 +116,27 @@ void print_matrix(int** matrix, int rows, int cols) {
 	}
 }
 
+void delete_matrix(int** matrix, int rows) {
+	for (int i = 0; i < rows; i++)
+		delete matrix[i];
+	delete matrix;
+}
+
+void hello(string txt, int qtd) {
+	for (int i = 0; i < qtd; i++)
+		cout << txt << endl;
+}
+
 int main() {
-	cout << "Hello warudo" << endl;
 	int i, j, k, l, m, n = 0;
 	int** matrix_a = read_file("Matrizes/A4x4.txt", &i, &j);
 	int** matrix_b = read_file("Matrizes/B4x4.txt", &k, &l);
 
-	int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l, &m, &n);
+	int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l, &m, &n, 3);
 	print_matrix(matrix_c, m, n);
 
-	for (int m = 0; m < i; m++) {
-		delete matrix_a[m];
-	}
-	delete matrix_a;
-
-	for (int m = 0; m < k; m++) {
-		delete matrix_b[m];
-	}
-	delete matrix_b;
+	delete_matrix(matrix_a, i);
+	delete_matrix(matrix_b, k);
+	delete_matrix(matrix_c, m);
 	return 0;
 }
