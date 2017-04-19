@@ -1,4 +1,5 @@
 import threading
+import time
 
 #this algorithm will compute, at least, one row of the result matrix.
 #matrix_a * matrix_b = matrix
@@ -7,13 +8,14 @@ import threading
 #row_end is the last row to be computed
 def multiply_matrix(matrix_a, matrix_b, row_start, row_end, matrix):
 	for i in range(row_start, row_end + 1): #supposes that matrix has at least 1 row
-		result2 = []
+		row = []
 		for j in range(len(matrixB[0])):
 			val = 0
 			for k in range(len(matrixB)):
 				val += matrixA[i][k] * matrixB[k][j]
-			result2.append(val)
-		matrix[i] = result2
+			row.append(val)
+		matrix[i] = row
+
 
 
 #generates matrix from file
@@ -40,15 +42,19 @@ for i in range(len(content)):
 	matrixB.append([eval(n) for n in content[i].split()]) #also converts to float list
 #ends matrix generation
 
-result = [[0] * len(matrixA)] * len(matrixB[0])
+result = [[0] * len(matrixB[0])] * len(matrixA)
 
 
 t1 = threading.Thread(target=multiply_matrix, args=(
-	matrixA, matrixB, 0, 1, result))
+	matrixA, matrixB, 0, len(matrixB)//2, result))
 t2 = threading.Thread(target=multiply_matrix, args=(
-	matrixA, matrixB, 2, 3, result))
+	matrixA, matrixB, len(matrixB)//2+1, len(matrixB), result))
+
+time_start = time.time()
 t1.start()
 t2.start()
 t1.join()
 t2.join()
+time_end = time.time()
 print(result)
+print("Time: " + str(time_end - time_start))

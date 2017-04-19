@@ -1,3 +1,5 @@
+import time
+
 #generates matrix from file
 with open("matrixA.txt") as file:
 	content = file.readlines() #saves each line to content.
@@ -23,15 +25,25 @@ for i in range(len(content)):
 #ends matrix generation
 
 #multiplies matrices. matrixA x matrixB
-result = [] #declares result matrix
+result = [[0] * len(matrixA)] * len(matrixB[0]) #declares result matrix
 #number of columns and rows is not verified
-for i in range(len(matrixA)): #supposes that matrix has at least 1 row
-	result2 = []
-	for j in range(len(matrixB[0])):
-		val = 0
-		for k in range(len(matrixB)):
-			val += matrixA[i][k] * matrixB[k][j]
-		result2.append(val)
-	result.append(result2)
 
+rows_matrix_a = len(matrixA)
+cols_matrix_b = len(matrixB[0])
+rows_matrix_b = len(matrixB)
+
+time_start = time.time()
+print("START")
+for i in range(rows_matrix_a): #supposes that matrix has at least 1 row
+	row = []
+	for j in range(cols_matrix_b):
+		val = 0
+		for k in range(rows_matrix_b):
+			val += matrixA[i][k] * matrixB[k][j]
+		row.append(val)
+	result[i] = row
+
+time_end = time.time()
+print("END")
 print(result)
+print("Time: " + str(time_end - time_start))
