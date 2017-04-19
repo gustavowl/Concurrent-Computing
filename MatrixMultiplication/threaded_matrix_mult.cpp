@@ -116,27 +116,42 @@ void print_matrix(int** matrix, int rows, int cols) {
 	}
 }
 
+void save_matrix_to_file(int** matrix_c, int m, int n, char* file_name) {
+	ofstream output_file;
+	output_file.open(file_name);
+	output_file << m << ' ' << n;
+	string str;
+	for (int i = 0; i < m; i++) {
+		str = '\n' + to_string(matrix_c[i][0]);
+		for (int j = 1; j < n; j++)
+			str += ' ' + to_string(matrix_c[i][j]);
+		output_file << str;
+	}
+	output_file.close();
+}
+
 void delete_matrix(int** matrix, int rows) {
 	for (int i = 0; i < rows; i++)
 		delete matrix[i];
 	delete matrix;
 }
 
-void hello(string txt, int qtd) {
-	for (int i = 0; i < qtd; i++)
-		cout << txt << endl;
-}
+int main(int argc, char* argv[]) {
+	if (argc == 5) {
+		int i, j, k, l, m, n = 0;
+		int** matrix_a = read_file(argv[1], &i, &j);
+		int** matrix_b = read_file(argv[2], &k, &l);
 
-int main() {
-	int i, j, k, l, m, n = 0;
-	int** matrix_a = read_file("Matrizes/A4x4.txt", &i, &j);
-	int** matrix_b = read_file("Matrizes/B4x4.txt", &k, &l);
+		int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l,
+			&m, &n, stoi(argv[4]));
+		//print_matrix(matrix_c, m, n);
 
-	int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l, &m, &n, 3);
-	print_matrix(matrix_c, m, n);
-
-	delete_matrix(matrix_a, i);
-	delete_matrix(matrix_b, k);
-	delete_matrix(matrix_c, m);
+		delete_matrix(matrix_a, i);
+		delete_matrix(matrix_b, k);
+		delete_matrix(matrix_c, m);
+	}
+	else
+		cout << "INVALID NUMBER OF ARGUMENTS! \n1 - Matrix A's file\n" <<
+			"2 - Matrix B's file\n3 - Output file\n4 - Number of threads" << endl;
 	return 0;
 }
