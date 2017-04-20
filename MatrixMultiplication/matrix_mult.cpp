@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <ctime>
 
 using namespace std;
 
@@ -104,12 +105,21 @@ void save_matrix_to_file(int** matrix_c, int m, int n, char* file_name) {
 int main(int argc, char* argv[]) {
 	if (argc == 4) {
 		int i, j, k, l, m, n = 0;
+		int start_time = clock();
 		int** matrix_a = read_file(argv[1], &i, &j);
 		int** matrix_b = read_file(argv[2], &k, &l);
+		cout << "Time to read files: " << to_string((clock() - start_time) / 1000.0) << 
+		" milliseconds" << endl;
 
+		start_time = clock();
 		int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l, &m, &n);
-		//print_matrix(matrix_c, m, n);
+		cout << "Time to mutiply matrices: " << 
+			to_string((clock() - start_time) / 1000.0) << " milliseconds" << endl;
+		
+		start_time = clock();
 		save_matrix_to_file(matrix_c, m, n, argv[3]);
+		cout << "Time to save result matrix to file: " << 
+			to_string((clock() - start_time) / 1000.0) << " milliseconds" << endl;
 
 		for (int m = 0; m < i; m++) {
 			delete matrix_a[m];

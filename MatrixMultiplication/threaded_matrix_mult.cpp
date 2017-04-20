@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <thread>
+#include <ctime>
 
 using namespace std;
 
@@ -116,14 +117,14 @@ void print_matrix(int** matrix, int rows, int cols) {
 	}
 }
 
-void save_matrix_to_file(int** matrix_c, int m, int n, char* file_name) {
+void save_matrix_to_file(int** matrix_c, int rows, int cols, char* file_name) {
 	ofstream output_file;
 	output_file.open(file_name);
-	output_file << m << ' ' << n;
+	output_file << rows << ' ' << cols;
 	string str;
-	for (int i = 0; i < m; i++) {
+	for (int i = 0; i < rows; i++) {
 		str = '\n' + to_string(matrix_c[i][0]);
-		for (int j = 1; j < n; j++)
+		for (int j = 1; j < cols; j++)
 			str += ' ' + to_string(matrix_c[i][j]);
 		output_file << str;
 	}
@@ -139,12 +140,22 @@ void delete_matrix(int** matrix, int rows) {
 int main(int argc, char* argv[]) {
 	if (argc == 5) {
 		int i, j, k, l, m, n = 0;
+		int start_time = clock();
 		int** matrix_a = read_file(argv[1], &i, &j);
 		int** matrix_b = read_file(argv[2], &k, &l);
+		cout << "Time to read files: " << to_string(clock() - start_time) <<
+			" milliseconds" << endl;
 
+		start_time = clock();
 		int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l,
 			&m, &n, stoi(argv[4]));
+		cout << "Time to mutiply matrices: " << to_string(clock() - start_time) <<
+			" milliseconds" << endl;
 		//print_matrix(matrix_c, m, n);
+		start_time = clock();
+		save_matrix_to_file(matrix_c, m, n, argv[3]);
+		cout << "Time to save result matrix to file: " << 
+			to_string(clock() - start_time) << " milliseconds" << endl;
 
 		delete_matrix(matrix_a, i);
 		delete_matrix(matrix_b, k);
