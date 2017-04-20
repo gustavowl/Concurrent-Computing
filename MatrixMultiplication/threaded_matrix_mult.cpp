@@ -87,8 +87,8 @@ int** multiply_matrix(int** matrix_a, int rows_a, int cols_a, int** matrix_b,
 			matrix_c[i] = new int[cols_b];
 
 		thread thread_list[qtt_threads];
-		const int proportion = cols_b / qtt_threads;
-		int mod = cols_b % qtt_threads;
+		const int proportion = rows_a / qtt_threads;
+		int mod = rows_a % qtt_threads;
 		int first_row, last_row = 0;
 		for (int i = 0; i < qtt_threads; i++) {
 			last_row = first_row + proportion - 1;
@@ -143,19 +143,19 @@ int main(int argc, char* argv[]) {
 		int start_time = clock();
 		int** matrix_a = read_file(argv[1], &i, &j);
 		int** matrix_b = read_file(argv[2], &k, &l);
-		cout << "Time to read files: " << to_string(clock() - start_time) <<
+		cout << "Time to read files: " << to_string((clock() - start_time)/1000.0) <<
 			" milliseconds" << endl;
 
 		start_time = clock();
 		int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l,
 			&m, &n, stoi(argv[4]));
-		cout << "Time to mutiply matrices: " << to_string(clock() - start_time) <<
-			" milliseconds" << endl;
+		cout << "Time to mutiply matrices: " << 
+			to_string((clock() - start_time)/1000.0) << " milliseconds" << endl;
 		//print_matrix(matrix_c, m, n);
 		start_time = clock();
 		save_matrix_to_file(matrix_c, m, n, argv[3]);
 		cout << "Time to save result matrix to file: " << 
-			to_string(clock() - start_time) << " milliseconds" << endl;
+			to_string((clock() - start_time)/1000.0) << " milliseconds" << endl;
 
 		delete_matrix(matrix_a, i);
 		delete_matrix(matrix_b, k);
