@@ -1,4 +1,5 @@
 import time
+import sys
 
 def read_file(path):
 	#generates matrix from file
@@ -15,30 +16,43 @@ def read_file(path):
 	#ends matrix generation
 	return ret_matrix
 
+if (len(sys.argv) == 4):
+	time_start = time.time()
+	matrix_a = read_file(sys.argv[1])
+	matrix_b = read_file(sys.argv[2])
+	time_end = time.time()
+	print("Time to read files: " + str(time_end - time_start) + " seconds")
 
-matrix_a = read_file("matrixA.txt")
-matrix_b = read_file("matrixB.txt")
+	#multiplies matrices. matrixA x matrixB
+	result = [[0] * len(matrix_a)] * len(matrix_b[0]) #declares result matrix
+	#number of columns and rows is not verified
 
-#multiplies matrices. matrixA x matrixB
-result = [[0] * len(matrix_a)] * len(matrix_b[0]) #declares result matrix
-#number of columns and rows is not verified
+	rows_matrix_a = len(matrix_a)
+	cols_matrix_b = len(matrix_b[0])
+	rows_matrix_b = len(matrix_b)
 
-rows_matrix_a = len(matrix_a)
-cols_matrix_b = len(matrix_b[0])
-rows_matrix_b = len(matrix_b)
+	time_start = time.time()
+	for i in range(rows_matrix_a): #supposes that matrix has at least 1 row
+		row = []
+		for j in range(cols_matrix_b):
+			val = 0
+			for k in range(rows_matrix_b):
+				val += matrix_a[i][k] * matrix_b[k][j]
+			row.append(val)
+		result[i] = row
 
-time_start = time.time()
-print("START")
-for i in range(rows_matrix_a): #supposes that matrix has at least 1 row
-	row = []
-	for j in range(cols_matrix_b):
-		val = 0
-		for k in range(rows_matrix_b):
-			val += matrix_a[i][k] * matrix_b[k][j]
-		row.append(val)
-	result[i] = row
+	time_end = time.time()
+	print("Time to multiply matrices: " + str(time_end - time_start) + " seconds")
 
-time_end = time.time()
-print("END")
-print(result)
-print("Time: " + str(time_end - time_start))
+	time_start = time.time()
+	output_file = open(sys.argv[3], 'w')
+	output_file.write(str(len(result)) + ' ' + str(len(result[0])))
+	for i in range(len(result)):
+		buff = str(result[i])
+		buff = buff.replace(",", "")	
+		output_file.write('\n' + buff[1:len(buff) - 1])
+	time_end = time.time()
+	print("Time to save to output file: " + str(time_end - time_start) + " seconds")
+else:
+	print("Invalid number of arguments.\n1 - Matrix A's file\n2 - Matrix B's file" +
+		"\n3 - Output file")
