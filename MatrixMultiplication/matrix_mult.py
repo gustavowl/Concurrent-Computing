@@ -24,7 +24,7 @@ if (len(sys.argv) == 4):
 	print("Time to read files: " + str(time_end - time_start) + " seconds")
 
 	#multiplies matrices. matrixA x matrixB
-	result = [[0] * len(matrix_a)] * len(matrix_b[0]) #declares result matrix
+	result = [[0] * len(matrix_b[0])] * len(matrix_a) #declares result matrix
 	#number of columns and rows is not verified
 
 	rows_matrix_a = len(matrix_a)
