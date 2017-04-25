@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <ctime>
+#include <chrono>
 
 using namespace std;
 
@@ -105,21 +105,33 @@ void save_matrix_to_file(int** matrix_c, int m, int n, char* file_name) {
 int main(int argc, char* argv[]) {
 	if (argc == 4) {
 		int i, j, k, l, m, n = 0;
-		int start_time = clock();
+		chrono::high_resolution_clock::time_point start_time, end_time;
+		chrono::duration<double> time_span;
+
+		start_time = chrono::high_resolution_clock::now();
 		int** matrix_a = read_file(argv[1], &i, &j);
 		int** matrix_b = read_file(argv[2], &k, &l);
-		cout << "Time to read files: " << to_string((clock() - start_time) / 1000.0) << 
-		" milliseconds" << endl;
+		end_time = chrono::high_resolution_clock::now();
+		time_span = chrono::duration_cast<chrono::duration<double>>(
+			end_time - start_time);
+		cout << "Time to read files: " << time_span.count() << 
+			" seconds" << endl;
 
-		start_time = clock();
+		start_time = chrono::high_resolution_clock::now();
 		int** matrix_c = multiply_matrix(matrix_a, i, j, matrix_b, k, l, &m, &n);
-		cout << "Time to mutiply matrices: " << 
-			to_string((clock() - start_time) / 1000.0) << " milliseconds" << endl;
+		end_time = chrono::high_resolution_clock::now();
+		time_span = chrono::duration_cast<chrono::duration<double>>(
+			end_time - start_time);
+		cout << "Time to mutiply matrices: " << time_span.count() << 
+			" seconds" << endl;
 		
-		start_time = clock();
+		start_time = chrono::high_resolution_clock::now();
 		save_matrix_to_file(matrix_c, m, n, argv[3]);
-		cout << "Time to save result matrix to file: " << 
-			to_string((clock() - start_time) / 1000.0) << " milliseconds" << endl;
+		end_time = chrono::high_resolution_clock::now();
+		time_span = chrono::duration_cast<chrono::duration<double>>(
+			end_time - start_time);
+		cout << "Time to save result matrix to file: " << time_span.count() <<
+			" seconds" << endl;
 
 		for (int m = 0; m < i; m++) {
 			delete matrix_a[m];
