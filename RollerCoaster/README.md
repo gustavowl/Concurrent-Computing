@@ -1,0 +1,3 @@
+The objective of this assignment was to simulate a roller coaster. Passengers would have to wait on the line and enter the car once it is available. Each passenger and car behavior is simulated by one thread. There are four versions of the algorithm developed: two versions for a rollercoaster with only one car and two versions for rollercoasters with multiple cars. Four versions of the algorithm were developed becaused the main objective of the assignment was to use different synchronization mechanisms.
+
+The project is available at [rodrigondec/prog-conc_Sincronizacao](https://github.com/rodrigondec/prog-conc_Sincronizacao). Unfortunatelly there is no version in english currently available, only in portuguese.
