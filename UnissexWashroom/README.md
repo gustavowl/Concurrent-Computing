@@ -1,0 +1,5 @@
+The objective of this assignment was to simulate the lines for entering (and using) an unissex washroom. Each person would have to wait on the line and enter the washroom if it is available and it is being used for people of the same gender. Each person's behavior is simulated by one thread. There are two versions of the algorithm developed since the main objective of the assignment was to use different synchronization mechanisms.
+
+The project is available at [rodrigondec/prog-conc_Sincronizacao](https://github.com/rodrigondec/prog-conc_Sincronizacao/tree/master/banheiro_unissex). This task was part of an assignment, along with the [roller coaster](../RollerCoaster). Unfortunatelly there is no version in english currently available, only in portuguese.available, only in portuguese.
+
+Link to [root of the repository](https://github.com/rodrigondec/prog-conc_Sincronizacao).
