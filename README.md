@@ -4,9 +4,12 @@ This repository is dedicated to storing the assignments of the course of Concurr
 
 ## Assignments list
 1. [Matrix Multiplication](MatrixMultiplication/)
-	0. This TODO list is beyond the scope of the assignment
-	1. TODO: update report
-	2. TODO: add GO benchmark
+	1. TODO list (beyond the scope of the assignment)
+		- [ ] update report
+		- [ ] implement solution in GO
+		- [ ] add GO benchmark
+	    - [ ] try to compile python code
+	    - [ ] benchmark compiled python code
 2. Assignment 2
 	1. Roller coaster
 		1. Link to [summary](RollerCoaster/) **english**
