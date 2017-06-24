@@ -21,6 +21,8 @@ do
 
 	for j in "${MATRIX_DIM[@]}";
 	do
+		mkdir -p $bench_dir"shell/sequential/" #guarantees that path exists
+		mkdir -p $bench_dir"internal/sequential/" #guarantees that path exists
 		FILE_SHELL=$bench_dir"shell/sequential/"$j$FILE_EXTENSION
 		FILE_STD_OUTPUT=$bench_dir"internal/sequential/"$j$FILE_EXTENSION
 		rm -f $FILE_SHELL #so it doesnt print unnecessary info
