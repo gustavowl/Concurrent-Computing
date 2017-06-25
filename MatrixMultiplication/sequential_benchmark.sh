@@ -21,10 +21,10 @@ do
 
 	for j in "${MATRIX_DIM[@]}";
 	do
-		mkdir -p $bench_dir"sequential/shell" #guarantees that path exists
-		mkdir -p $bench_dir"sequential/internal" #guarantees that path exists
-		FILE_SHELL=$bench_dir"shell/sequential/"$j$FILE_EXTENSION
-		FILE_STD_OUTPUT=$bench_dir"internal/sequential/"$j$FILE_EXTENSION
+		mkdir -p $bench_dir"sequential/shell/" #guarantees that path exists
+		mkdir -p $bench_dir"sequential/internal/" #guarantees that path exists
+		FILE_SHELL=$bench_dir"sequential/shell/"$j$FILE_EXTENSION
+		FILE_STD_OUTPUT=$bench_dir"sequential/internal/"$j$FILE_EXTENSION
 		rm -f $FILE_SHELL #so it doesnt print unnecessary info
 		rm -f $FILE_STD_OUTPUT #so it doesnt print unnecessary info
 		count_iterations=0
