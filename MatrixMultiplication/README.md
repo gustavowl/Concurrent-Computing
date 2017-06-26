@@ -41,7 +41,7 @@ will result in a file with content
 
 ### C++
 
-#### Compiling
+#### COMPILING
 C++ code needs to be compiled in order to be executed. Both codes (sequential and threaded) use the C++11 standard. The threaded version uses the lpthread library and it may be necessary to install it.
 ##### Sequential
 In order to compile the sequential code, and supposing the user is at the [cpp directory](cpp/), run the following command.
@@ -52,24 +52,32 @@ This will generate an executable with name `mm`.
 ##### Threaded
 TODO
 
-#### Running
+#### RUNNING
 
 ##### Sequential
 Supposing you are still located at the [cpp directory](cpp/) and the code was compiled exactly as described at the [Compiling section](#compiling), run the following command:
 ```
 ./mm <matrix_a> <matrix_b> <output_file>
+
 <matrix_a> the file path of the first matrix.
 <matrix_b> the file path of the second matrix.
 <outuput_file> the file path of the result matrix. If the file does not exist it is created automatically.
 ```
 The input matrices format must be as described at [Executing section](#executing). The output matrix will also follow the same pattern.
 
-
+The following example will procude the same result as the one described at the [Executing section](#executing). Supposing the user is still located at the [cpp directory](cpp/), run the following comand:
+```
+./mm ../matrices/a4x4.txt ../matrices/b4x4.txt output.txt 
+```
+The output.txt file was created at the current directory, check its content to see the result matrix \(`cat output.txt`\)
 #### Threaded
 TODO
 
 ### Python
+TODO
 
 ### sequential\_benchmark.sh
 
 In order to run this script, it is necessary to install [bc](https://www.gnu.org/software/bc/manual/html_mono/bc.html) and compile the C++ code **exactly** as described at the [Compiling section](#compiling). Also, it is necessary to have [python](https://www.python.org/downloads/) installed.
+
+It may be necessary to add execution permission to the file \(`chmod +x sequential_benchmark.sh`\). To run it, just execute the `./sequential_benchmark` command. 
