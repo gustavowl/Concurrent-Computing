@@ -30,6 +30,20 @@ func read_file(path string) [][]int {
 }
 
 func main() {
-	s := read_file("../matrices/a4x4.txt")
-	fmt.Println(s)
+	matrix_a := read_file("../matrices/a4x4.txt")
+	matrix_b := read_file("../matrices/b4x4.txt")
+	fmt.Println(matrix_a)
+	fmt.Println(matrix_b)
+
+	var result [][]int = make([][]int, len(matrix_a), len(matrix_a))
+	for i, row_a := range matrix_a {
+		var row_res []int = make([]int, len(matrix_b[0]), len(matrix_b[0]))
+		result[i] = row_res
+		for j := range matrix_b[i] {
+			for k, row_b := range matrix_b {
+				result[i][j] += row_a[k] * row_b[j]
+			}
+		}
+	}
+	fmt.Println(result)
 }
