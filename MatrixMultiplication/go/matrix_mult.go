@@ -5,6 +5,8 @@ import (
 	"io/ioutil"
 	"strings"
 	"strconv"
+	"time"
+	"os"
 )
 
 func read_file(path string) [][]int {
@@ -30,20 +32,42 @@ func read_file(path string) [][]int {
 }
 
 func main() {
-	matrix_a := read_file("../matrices/a4x4.txt")
-	matrix_b := read_file("../matrices/b4x4.txt")
-	fmt.Println(matrix_a)
-	fmt.Println(matrix_b)
+	if len(os.Args) == 4 {
+		time_start := time.Now()
+		matrix_a := read_file(os.Args[1])
+		matrix_b := read_file(os.Args[2])
+		fmt.Println("Time to read files: " + time.Since(time_start).String())
+		time_start = time.Now()
 
-	var result [][]int = make([][]int, len(matrix_a), len(matrix_a))
-	for i, row_a := range matrix_a {
-		var row_res []int = make([]int, len(matrix_b[0]), len(matrix_b[0]))
-		result[i] = row_res
-		for j := range matrix_b[i] {
-			for k, row_b := range matrix_b {
-				result[i][j] += row_a[k] * row_b[j]
+		var result [][]int = make([][]int, len(matrix_a), len(matrix_a))
+		for i, row_a := range matrix_a {
+			var row_res []int = make([]int, len(matrix_b[0]), len(matrix_b[0]))
+			result[i] = row_res
+			for j := range matrix_b[i] {
+				for k, row_b := range matrix_b {
+					result[i][j] += row_a[k] * row_b[j]
+				}
 			}
 		}
+		fmt.Println("Time to multiply matrices: " + time.Since(time_start).String())
+
+		time_start = time.Now()
+		f, _ := os.OpenFile(os.Args[3], os.O_WRONLY | os.O_CREATE, 0644)
+		content := strconv.Itoa(len(result)) + " " + strconv.Itoa(len(result[0])) + "\n"
+		f.WriteString(content)
+		for _, row := range result {
+			content = ""
+			for _, elem := range row {
+				content += strconv.Itoa(elem) + " "
+			}
+			content += "\n"
+			f.WriteString(content)
+		}
+		f.Close()
+		fmt.Println("Time to write result matrix to file: " + time.Since(time_start).String())
+
+	} else {
+		fmt.Println("Invalid number of arguments.\n1 - Matrix A's file\n2 - Matrix B's file" +
+			"\n3 - Output file")
 	}
-	fmt.Println(result)
 }
