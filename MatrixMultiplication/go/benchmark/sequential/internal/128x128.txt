@@ -1,0 +1,400 @@
+Time to read files: 67.847264ms
+Time to multiply matrices: 136.764624ms
+Time to write result matrix to file: 81.371904ms
+
+Time to read files: 61.467206ms
+Time to multiply matrices: 137.904667ms
+Time to write result matrix to file: 66.11337ms
+
+Time to read files: 61.150438ms
+Time to multiply matrices: 137.999771ms
+Time to write result matrix to file: 65.340407ms
+
+Time to read files: 61.501737ms
+Time to multiply matrices: 137.49415ms
+Time to write result matrix to file: 65.682123ms
+
+Time to read files: 74.877576ms
+Time to multiply matrices: 175.335956ms
+Time to write result matrix to file: 79.503272ms
+
+Time to read files: 61.260281ms
+Time to multiply matrices: 137.198735ms
+Time to write result matrix to file: 64.767807ms
+
+Time to read files: 61.350645ms
+Time to multiply matrices: 137.521597ms
+Time to write result matrix to file: 65.271241ms
+
+Time to read files: 61.471893ms
+Time to multiply matrices: 137.63821ms
+Time to write result matrix to file: 65.605821ms
+
+Time to read files: 61.482414ms
+Time to multiply matrices: 137.731023ms
+Time to write result matrix to file: 64.686245ms
+
+Time to read files: 61.510539ms
+Time to multiply matrices: 137.753522ms
+Time to write result matrix to file: 64.808432ms
+
+Time to read files: 61.433352ms
+Time to multiply matrices: 137.89899ms
+Time to write result matrix to file: 65.998944ms
+
+Time to read files: 61.420175ms
+Time to multiply matrices: 137.795294ms
+Time to write result matrix to file: 69.656365ms
+
+Time to read files: 61.393717ms
+Time to multiply matrices: 136.977383ms
+Time to write result matrix to file: 66.067589ms
+
+Time to read files: 62.741416ms
+Time to multiply matrices: 137.526129ms
+Time to write result matrix to file: 64.731453ms
+
+Time to read files: 61.543404ms
+Time to multiply matrices: 137.415505ms
+Time to write result matrix to file: 75.012419ms
+
+Time to read files: 61.332051ms
+Time to multiply matrices: 137.634825ms
+Time to write result matrix to file: 64.459424ms
+
+Time to read files: 61.527883ms
+Time to multiply matrices: 137.640607ms
+Time to write result matrix to file: 64.670725ms
+
+Time to read files: 61.469081ms
+Time to multiply matrices: 137.350088ms
+Time to write result matrix to file: 64.380206ms
+
+Time to read files: 61.554705ms
+Time to multiply matrices: 137.303422ms
+Time to write result matrix to file: 65.648269ms
+
+Time to read files: 61.355697ms
+Time to multiply matrices: 137.71571ms
+Time to write result matrix to file: 65.367386ms
+
+Time to read files: 61.312676ms
+Time to multiply matrices: 137.816439ms
+Time to write result matrix to file: 65.76879ms
+
+Time to read files: 61.635591ms
+Time to multiply matrices: 138.066749ms
+Time to write result matrix to file: 65.442906ms
+
+Time to read files: 61.335957ms
+Time to multiply matrices: 137.884771ms
+Time to write result matrix to file: 65.248428ms
+
+Time to read files: 61.797881ms
+Time to multiply matrices: 138.01274ms
+Time to write result matrix to file: 80.851647ms
+
+Time to read files: 61.939755ms
+Time to multiply matrices: 138.357997ms
+Time to write result matrix to file: 75.377573ms
+
+Time to read files: 61.185646ms
+Time to multiply matrices: 137.045246ms
+Time to write result matrix to file: 65.664155ms
+
+Time to read files: 61.58283ms
+Time to multiply matrices: 138.063104ms
+Time to write result matrix to file: 63.830678ms
+
+Time to read files: 61.680746ms
+Time to multiply matrices: 138.003521ms
+Time to write result matrix to file: 72.893425ms
+
+Time to read files: 61.210906ms
+Time to multiply matrices: 137.563941ms
+Time to write result matrix to file: 64.789682ms
+
+Time to read files: 61.534133ms
+Time to multiply matrices: 139.338771ms
+Time to write result matrix to file: 80.378578ms
+
+Time to read files: 61.30851ms
+Time to multiply matrices: 137.542117ms
+Time to write result matrix to file: 64.556038ms
+
+Time to read files: 61.574549ms
+Time to multiply matrices: 137.801387ms
+Time to write result matrix to file: 65.569415ms
+
+Time to read files: 61.142625ms
+Time to multiply matrices: 137.372172ms
+Time to write result matrix to file: 66.470138ms
+
+Time to read files: 61.626893ms
+Time to multiply matrices: 137.910605ms
+Time to write result matrix to file: 77.61938ms
+
+Time to read files: 61.546997ms
+Time to multiply matrices: 137.884824ms
+Time to write result matrix to file: 64.957754ms
+
+Time to read files: 61.132261ms
+Time to multiply matrices: 137.165506ms
+Time to write result matrix to file: 65.607071ms
+
+Time to read files: 63.262193ms
+Time to multiply matrices: 137.487587ms
+Time to write result matrix to file: 64.214061ms
+
+Time to read files: 61.1845ms
+Time to multiply matrices: 136.912122ms
+Time to write result matrix to file: 65.344626ms
+
+Time to read files: 61.495123ms
+Time to multiply matrices: 137.596597ms
+Time to write result matrix to file: 74.396904ms
+
+Time to read files: 61.126428ms
+Time to multiply matrices: 139.055284ms
+Time to write result matrix to file: 64.787547ms
+
+Time to read files: 61.109657ms
+Time to multiply matrices: 137.397483ms
+Time to write result matrix to file: 65.862122ms
+
+Time to read files: 61.145125ms
+Time to multiply matrices: 135.711454ms
+Time to write result matrix to file: 65.688008ms
+
+Time to read files: 61.761318ms
+Time to multiply matrices: 137.610555ms
+Time to write result matrix to file: 78.137553ms
+
+Time to read files: 61.386269ms
+Time to multiply matrices: 137.599409ms
+Time to write result matrix to file: 79.752176ms
+
+Time to read files: 61.127885ms
+Time to multiply matrices: 137.238266ms
+Time to write result matrix to file: 66.06535ms
+
+Time to read files: 71.708433ms
+Time to multiply matrices: 177.612241ms
+Time to write result matrix to file: 65.129054ms
+
+Time to read files: 61.540486ms
+Time to multiply matrices: 135.834058ms
+Time to write result matrix to file: 65.757591ms
+
+Time to read files: 61.200021ms
+Time to multiply matrices: 137.32337ms
+Time to write result matrix to file: 65.154471ms
+
+Time to read files: 61.449029ms
+Time to multiply matrices: 136.432074ms
+Time to write result matrix to file: 66.214463ms
+
+Time to read files: 61.415904ms
+Time to multiply matrices: 137.752377ms
+Time to write result matrix to file: 66.75123ms
+
+Time to read files: 61.4733ms
+Time to multiply matrices: 137.093163ms
+Time to write result matrix to file: 63.690783ms
+
+Time to read files: 61.59007ms
+Time to multiply matrices: 137.465608ms
+Time to write result matrix to file: 69.675115ms
+
+Time to read files: 61.344499ms
+Time to multiply matrices: 137.339672ms
+Time to write result matrix to file: 65.486552ms
+
+Time to read files: 61.422883ms
+Time to multiply matrices: 137.565451ms
+Time to write result matrix to file: 65.575718ms
+
+Time to read files: 61.564133ms
+Time to multiply matrices: 138.180238ms
+Time to write result matrix to file: 130.714824ms
+
+Time to read files: 61.369238ms
+Time to multiply matrices: 137.493993ms
+Time to write result matrix to file: 65.017076ms
+
+Time to read files: 61.511164ms
+Time to multiply matrices: 137.051393ms
+Time to write result matrix to file: 64.983743ms
+
+Time to read files: 61.760433ms
+Time to multiply matrices: 138.142686ms
+Time to write result matrix to file: 80.92373ms
+
+Time to read files: 61.463039ms
+Time to multiply matrices: 137.226443ms
+Time to write result matrix to file: 65.060096ms
+
+Time to read files: 61.170594ms
+Time to multiply matrices: 137.559149ms
+Time to write result matrix to file: 64.202187ms
+
+Time to read files: 61.396009ms
+Time to multiply matrices: 137.497951ms
+Time to write result matrix to file: 65.467698ms
+
+Time to read files: 61.784444ms
+Time to multiply matrices: 138.430601ms
+Time to write result matrix to file: 75.925173ms
+
+Time to read files: 61.694756ms
+Time to multiply matrices: 138.346904ms
+Time to write result matrix to file: 81.056125ms
+
+Time to read files: 61.097521ms
+Time to multiply matrices: 137.148892ms
+Time to write result matrix to file: 64.785775ms
+
+Time to read files: 61.310697ms
+Time to multiply matrices: 137.458264ms
+Time to write result matrix to file: 65.247595ms
+
+Time to read files: 61.403613ms
+Time to multiply matrices: 137.776491ms
+Time to write result matrix to file: 64.690047ms
+
+Time to read files: 61.642205ms
+Time to multiply matrices: 137.73597ms
+Time to write result matrix to file: 69.764489ms
+
+Time to read files: 61.564393ms
+Time to multiply matrices: 137.684148ms
+Time to write result matrix to file: 77.792243ms
+
+Time to read files: 61.293562ms
+Time to multiply matrices: 137.144152ms
+Time to write result matrix to file: 64.825359ms
+
+Time to read files: 61.718767ms
+Time to multiply matrices: 138.017635ms
+Time to write result matrix to file: 81.35904ms
+
+Time to read files: 61.490539ms
+Time to multiply matrices: 137.390087ms
+Time to write result matrix to file: 64.854161ms
+
+Time to read files: 61.616268ms
+Time to multiply matrices: 138.043417ms
+Time to write result matrix to file: 66.17988ms
+
+Time to read files: 63.433337ms
+Time to multiply matrices: 137.363577ms
+Time to write result matrix to file: 75.404292ms
+
+Time to read files: 61.494967ms
+Time to multiply matrices: 137.637586ms
+Time to write result matrix to file: 65.036659ms
+
+Time to read files: 61.48231ms
+Time to multiply matrices: 137.541024ms
+Time to write result matrix to file: 64.761505ms
+
+Time to read files: 61.268093ms
+Time to multiply matrices: 137.498317ms
+Time to write result matrix to file: 63.865886ms
+
+Time to read files: 61.141792ms
+Time to multiply matrices: 137.396338ms
+Time to write result matrix to file: 65.444052ms
+
+Time to read files: 63.545472ms
+Time to multiply matrices: 136.518532ms
+Time to write result matrix to file: 63.005581ms
+
+Time to read files: 61.293405ms
+Time to multiply matrices: 135.683486ms
+Time to write result matrix to file: 65.568582ms
+
+Time to read files: 61.538456ms
+Time to multiply matrices: 137.591336ms
+Time to write result matrix to file: 69.92855ms
+
+Time to read files: 61.105334ms
+Time to multiply matrices: 137.045298ms
+Time to write result matrix to file: 65.385303ms
+
+Time to read files: 61.417467ms
+Time to multiply matrices: 135.190989ms
+Time to write result matrix to file: 64.522705ms
+
+Time to read files: 61.402727ms
+Time to multiply matrices: 137.396806ms
+Time to write result matrix to file: 64.854733ms
+
+Time to read files: 61.669132ms
+Time to multiply matrices: 137.832741ms
+Time to write result matrix to file: 72.88155ms
+
+Time to read files: 61.521164ms
+Time to multiply matrices: 137.680763ms
+Time to write result matrix to file: 64.480621ms
+
+Time to read files: 61.344759ms
+Time to multiply matrices: 135.500674ms
+Time to write result matrix to file: 65.734779ms
+
+Time to read files: 61.294448ms
+Time to multiply matrices: 188.540286ms
+Time to write result matrix to file: 65.666811ms
+
+Time to read files: 61.410123ms
+Time to multiply matrices: 137.740345ms
+Time to write result matrix to file: 65.020409ms
+
+Time to read files: 61.413665ms
+Time to multiply matrices: 137.553263ms
+Time to write result matrix to file: 65.745665ms
+
+Time to read files: 61.453508ms
+Time to multiply matrices: 137.400973ms
+Time to write result matrix to file: 65.702383ms
+
+Time to read files: 61.551164ms
+Time to multiply matrices: 137.849824ms
+Time to write result matrix to file: 66.63222ms
+
+Time to read files: 61.532101ms
+Time to multiply matrices: 137.667169ms
+Time to write result matrix to file: 63.984115ms
+
+Time to read files: 61.255906ms
+Time to multiply matrices: 137.179829ms
+Time to write result matrix to file: 64.603381ms
+
+Time to read files: 61.624913ms
+Time to multiply matrices: 138.189874ms
+Time to write result matrix to file: 72.625198ms
+
+Time to read files: 61.439602ms
+Time to multiply matrices: 138.008781ms
+Time to write result matrix to file: 66.091808ms
+
+Time to read files: 61.491216ms
+Time to multiply matrices: 171.007914ms
+Time to write result matrix to file: 97.092154ms
+
+Time to read files: 61.158771ms
+Time to multiply matrices: 137.001862ms
+Time to write result matrix to file: 65.437333ms
+
+Time to read files: 61.470019ms
+Time to multiply matrices: 137.456702ms
+Time to write result matrix to file: 66.083578ms
+
+Time to read files: 61.514185ms
+Time to multiply matrices: 137.916542ms
+Time to write result matrix to file: 64.954576ms
+
+Time to read files: 61.722465ms
+Time to multiply matrices: 138.268311ms
+Time to write result matrix to file: 81.123312ms
+
