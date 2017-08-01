@@ -4,7 +4,7 @@
 MAX_ITERATIONS=100
 FILE_EXTENSION=".txt"
 MATRIX_DIM=(4x4 8x8 16x16 32x32 64x64 128x128 256x256 512x512 1024x1024 2048x2048)
-LANGUAGES=(cpp "python")
+LANGUAGES=(cpp "python" go)
 
 count_script=0
 max_script=$[${#LANGUAGES[@]} * $MAX_ITERATIONS * ${#MATRIX_DIM[@]}]
@@ -15,8 +15,10 @@ do
 	cmd="nuthing"
 	if [ $i = "cpp" ]; then
 		cmd="./"$i"/mm"
-	else #then python
+	elif [ $i = "python" ]; then
 		cmd="python "$i"/matrix_mult.py"
+	else #then go
+		cmd="go run "$i"/matrix_mult.go"
 	fi
 
 	for j in "${MATRIX_DIM[@]}";
