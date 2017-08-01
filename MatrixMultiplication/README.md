@@ -65,16 +65,44 @@ Supposing you are still located at the [cpp directory](cpp/) and the code was co
 ```
 The input matrices format must be as described at [Executing section](#executing). The output matrix will also follow the same pattern.
 
-The following example will procude the same result as the one described at the [Executing section](#executing). Supposing the user is still located at the [cpp directory](cpp/), run the following comand:
+The following example will procude the same result as the one described at the [Executing section](#executing). Supposing the user is still located at the [cpp directory](cpp/), run the following command:
 ```
 ./mm ../matrices/a4x4.txt ../matrices/b4x4.txt output.txt 
 ```
 The output.txt file was created at the current directory, check its content to see the result matrix \(`cat output.txt`\)
-#### Threaded
+##### Threaded
 TODO
 
 ### Python
+Since Python code is interpreted, it is possible to run the provided code as long as [the interpreter](https://www.python.org/downloads/) is installed.
+
+#### Sequential
+If the user is in the [python directory](python/), the following command can be executed in order to run the program:
+```
+python matrix_mult.py <matrix_a> <matrix_b> <output_file>
+
+<matrix_a> the file path of the first matrix.
+<matrix_b> the file path of the second matrix.
+<outuput_file> the file path of the result matrix. If the file does not exist it is created automatically.
+```
+
+#### Threaded
 TODO
+
+### GO
+GO is compiled, but the command used to compile the code is used alongside the on to run it. Please visit the official website for [GO installing instructions](https://golang.org/doc/install).
+#### Sequential
+Run the following command if located in the [go directory](go/)
+```
+go run matrix_mult.go <matrix_a> <matrix_b> <output_file>
+
+<matrix_a> the file path of the first matrix.
+<matrix_b> the file path of the second matrix.
+<outuput_file> the file path of the result matrix. If the file does not exist it is created automatically.
+```
+#### Threaded
+TODO
+
 
 ### sequential\_benchmark.sh
 
