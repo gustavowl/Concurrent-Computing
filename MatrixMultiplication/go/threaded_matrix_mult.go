@@ -31,6 +31,20 @@ func read_file(path string) [][]int {
 	return matrix
 }
 
+func multiply_matrix(matrix_a [][]int, matrix_b [][]int, row_start int, 
+	row_end int, matrix [][]int) {
+	
+	for i := row_start; i <= row_end; i++ {
+		var row_res []int = make([]int, len(matrix_b[0]), len(matrix_b[0]))
+		matrix[i] = row_res
+		for j := range matrix_b[i] {
+			for k, row_b := range matrix_b {
+				matrix[i][j] += matrix_a[i][k] * row_b[j]
+			}
+		}
+	}
+}
+
 func main() {
 	if len(os.Args) == 5 {
 		time_start := time.Now()
@@ -38,20 +52,21 @@ func main() {
 		matrix_b := read_file(os.Args[2])
 		fmt.Println("Time to read files: " + time.Since(time_start).String())
 
-		qtt_threads := os.Args[4]
-		time_start = time.Now()
-
-		/*
+		qtt_threads, _ := strconv.Atoi(os.Args[4])
 		var result [][]int = make([][]int, len(matrix_a), len(matrix_a))
-		for i, row_a := range matrix_a {
-			var row_res []int = make([]int, len(matrix_b[0]), len(matrix_b[0]))
-			result[i] = row_res
-			for j := range matrix_b[i] {
-				for k, row_b := range matrix_b {
-					result[i][j] += row_a[k] * row_b[j]
-				}
+		proportion := len(result) / qtt_threads
+		mod := len(result) % qtt_threads
+		next_row := 0
+		time_start = time.Now()
+		proportion += 1
+		for i := 0; i < qtt_threads; i++ {
+			if mod == 0 {
+				proportion -= 1
 			}
-		}*/
+			mod -= 1
+			go multiply_matrix(matrix_a, matrix_b, next_row, next_row + proportion - 1, result)
+			next_row += proportion
+		}
 		fmt.Println("Time to multiply matrices: " + time.Since(time_start).String())
 
 		time_start = time.Now()
