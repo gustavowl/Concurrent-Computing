@@ -51,7 +51,10 @@ g++ matrix_mult.cpp --std=c++11 -o mm
 ```
 This will generate an executable with name `mm`.
 ##### Threaded
-TODO
+In order to compile the threaded code, and supposing the user is at the [cpp directory](cpp/), run the following command.
+```
+g++ threaded_matrix_mult.cpp --std=c++11 -lpthread -o tmm
+```
 
 #### RUNNING
 
