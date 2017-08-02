@@ -48,6 +48,7 @@ do
 		do
 			ARGUMENT3="output.txt"
 			echo -e "\n-----------------"$i $j": "$th_num" Thread(s)-----------------"
+			echo -e "\n-----------------"$th_num" Thread(s)-----------------" >> $FILE_STD_OUTPUT
 
 			for k in `seq 1 $MAX_ITERATIONS`;
 			do
