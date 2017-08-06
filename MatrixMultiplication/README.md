@@ -74,8 +74,17 @@ The following example will procude the same result as the one described at the [
 ./mm ../matrices/a4x4.txt ../matrices/b4x4.txt output.txt 
 ```
 The output.txt file was created at the current directory, check its content to see the result matrix \(`cat output.txt`\)
+
 ##### Threaded
-TODO
+Supposing you are still located at the [cpp directory](cpp/) and the code was compiled exactly as described at the [Compiling section](#compiling), run the following command:
+```
+./tmm <matrix_a> <matrix_b> <output_file> <number_of_threads>
+
+<matrix_a> the file path of the first matrix.
+<matrix_b> the file path of the second matrix.
+<outuput_file> the file path of the result matrix. If the file does not exist it is created automatically.
+<number_of_threads> The number of threads that will be created to multiply the matrix. Each thread computes, at least, one row of the result matrix
+```
 
 ### Python
 Since Python code is interpreted, it is possible to run the provided code as long as [the interpreter](https://www.python.org/downloads/) is installed.
@@ -91,7 +100,15 @@ python matrix_mult.py <matrix_a> <matrix_b> <output_file>
 ```
 
 #### Threaded
-TODO
+If the user is in the [python directory](python/), the following command can be executed in order to run the program:
+```
+python threaded_matrix_mult.py <matrix_a> <matrix_b> <output_file> <number_of_threads>
+
+<matrix_a> the file path of the first matrix.
+<matrix_b> the file path of the second matrix.
+<outuput_file> the file path of the result matrix. If the file does not exist it is created automatically.
+<number_of_threads> The number of threads that will be created to multiply the matrix. Each thread computes, at least, one row of the result matrix
+```
 
 ### GO
 GO is compiled, but the command used to compile the code is used alongside the on to run it. Please visit the official website for [GO installing instructions](https://golang.org/doc/install).
@@ -105,7 +122,15 @@ go run matrix_mult.go <matrix_a> <matrix_b> <output_file>
 <outuput_file> the file path of the result matrix. If the file does not exist it is created automatically.
 ```
 #### Threaded
-TODO
+Run the following command if located in the [go directory](go/)
+```
+go runm threaded_matrix_mult.go <matrix_a> <matrix_b> <output_file> <number_of_threads>
+
+<matrix_a> the file path of the first matrix.
+<matrix_b> the file path of the second matrix.
+<outuput_file> the file path of the result matrix. If the file does not exist it is created automatically.
+<number_of_threads> The number of threads that will be created to multiply the matrix. Each thread computes, at least, one row of the result matrix
+```
 
 
 ### sequential\_benchmark.sh
