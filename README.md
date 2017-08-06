@@ -8,8 +8,8 @@ This repository is dedicated to storing the assignments of the course of Concurr
 		- [ ] update report
 		- [x] implement solution in GO
 		- [x] add GO benchmark
-		- [ ] implement concurent solution in GO
-		- [ ] implement concurrent benchmark script 
+		- [x] implement concurent solution in GO
+		- [x] implement concurrent benchmark script 
 		- [ ] try to compile python code
 		- [ ] benchmark compiled python code
 2. Assignment 2
