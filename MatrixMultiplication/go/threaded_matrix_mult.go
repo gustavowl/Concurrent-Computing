@@ -7,6 +7,7 @@ import (
 	"strconv"
 	"time"
 	"os"
+	"sync"
 )
 
 func read_file(path string) [][]int {
@@ -32,7 +33,7 @@ func read_file(path string) [][]int {
 }
 
 func multiply_matrix(matrix_a [][]int, matrix_b [][]int, row_start int, 
-	row_end int, matrix [][]int) {
+	row_end int, matrix [][]int, wg *sync.WaitGroup) {
 	
 	for i := row_start; i <= row_end; i++ {
 		var row_res []int = make([]int, len(matrix_b[0]), len(matrix_b[0]))
@@ -43,6 +44,7 @@ func multiply_matrix(matrix_a [][]int, matrix_b [][]int, row_start int,
 			}
 		}
 	}
+	wg.Done()
 }
 
 func main() {
@@ -59,14 +61,18 @@ func main() {
 		next_row := 0
 		time_start = time.Now()
 		proportion += 1
+		var wg sync.WaitGroup
+		wg.Add(qtt_threads)
+
 		for i := 0; i < qtt_threads; i++ {
 			if mod == 0 {
 				proportion -= 1
 			}
 			mod -= 1
-			go multiply_matrix(matrix_a, matrix_b, next_row, next_row + proportion - 1, result)
+			go multiply_matrix(matrix_a, matrix_b, next_row, next_row + proportion - 1, result, &wg)
 			next_row += proportion
 		}
+		wg.Wait()
 		fmt.Println("Time to multiply matrices: " + time.Since(time_start).String())
 
 		time_start = time.Now()
