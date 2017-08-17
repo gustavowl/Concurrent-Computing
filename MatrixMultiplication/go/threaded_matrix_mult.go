@@ -8,6 +8,7 @@ import (
 	"time"
 	"os"
 	"sync"
+	"runtime"
 )
 
 func read_file(path string) [][]int {
@@ -49,6 +50,7 @@ func multiply_matrix(matrix_a [][]int, matrix_b [][]int, row_start int,
 
 func main() {
 	if len(os.Args) == 5 {
+		runtime.GOMAXPROCS(4) //needed on raspberry pi to use all 4 cores
 		time_start := time.Now()
 		matrix_a := read_file(os.Args[1])
 		matrix_b := read_file(os.Args[2])
