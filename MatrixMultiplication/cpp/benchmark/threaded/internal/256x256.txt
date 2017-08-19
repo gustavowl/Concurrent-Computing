@@ -1,2688 +1,2688 @@
 
 -----------------1 Thread(s)-----------------
 Time to read files: 0.1416 seconds
-Time to mutiply matrices: 0.670137 seconds
+Time to multiply matrices: 0.670137 seconds
 Time to save result matrix to file: 0.15799 seconds
 
 Time to read files: 0.131168 seconds
-Time to mutiply matrices: 0.706162 seconds
+Time to multiply matrices: 0.706162 seconds
 Time to save result matrix to file: 0.186166 seconds
 
 Time to read files: 0.135131 seconds
-Time to mutiply matrices: 0.673428 seconds
+Time to multiply matrices: 0.673428 seconds
 Time to save result matrix to file: 0.160905 seconds
 
 Time to read files: 0.131472 seconds
-Time to mutiply matrices: 0.671815 seconds
+Time to multiply matrices: 0.671815 seconds
 Time to save result matrix to file: 0.157567 seconds
 
 Time to read files: 0.134916 seconds
-Time to mutiply matrices: 0.670797 seconds
+Time to multiply matrices: 0.670797 seconds
 Time to save result matrix to file: 0.158204 seconds
 
 Time to read files: 0.132858 seconds
-Time to mutiply matrices: 0.666694 seconds
+Time to multiply matrices: 0.666694 seconds
 Time to save result matrix to file: 0.160246 seconds
 
 Time to read files: 0.127634 seconds
-Time to mutiply matrices: 0.735011 seconds
+Time to multiply matrices: 0.735011 seconds
 Time to save result matrix to file: 0.158859 seconds
 
 Time to read files: 0.13423 seconds
-Time to mutiply matrices: 0.67455 seconds
+Time to multiply matrices: 0.67455 seconds
 Time to save result matrix to file: 0.160594 seconds
 
 Time to read files: 0.137941 seconds
-Time to mutiply matrices: 0.680052 seconds
+Time to multiply matrices: 0.680052 seconds
 Time to save result matrix to file: 0.157868 seconds
 
 Time to read files: 0.131459 seconds
-Time to mutiply matrices: 0.679598 seconds
+Time to multiply matrices: 0.679598 seconds
 Time to save result matrix to file: 0.161523 seconds
 
 
 -----------------2 Thread(s)-----------------
 Time to read files: 0.141816 seconds
-Time to mutiply matrices: 0.338629 seconds
+Time to multiply matrices: 0.338629 seconds
 Time to save result matrix to file: 0.158726 seconds
 
 Time to read files: 0.130535 seconds
-Time to mutiply matrices: 0.338983 seconds
+Time to multiply matrices: 0.338983 seconds
 Time to save result matrix to file: 0.157602 seconds
 
 Time to read files: 0.139094 seconds
-Time to mutiply matrices: 0.392066 seconds
+Time to multiply matrices: 0.392066 seconds
 Time to save result matrix to file: 0.158348 seconds
 
 Time to read files: 0.131454 seconds
-Time to mutiply matrices: 0.339911 seconds
+Time to multiply matrices: 0.339911 seconds
 Time to save result matrix to file: 0.158347 seconds
 
 Time to read files: 0.139047 seconds
-Time to mutiply matrices: 0.338966 seconds
+Time to multiply matrices: 0.338966 seconds
 Time to save result matrix to file: 0.160279 seconds
 
 Time to read files: 0.131686 seconds
-Time to mutiply matrices: 0.338855 seconds
+Time to multiply matrices: 0.338855 seconds
 Time to save result matrix to file: 0.160688 seconds
 
 Time to read files: 0.131343 seconds
-Time to mutiply matrices: 0.340147 seconds
+Time to multiply matrices: 0.340147 seconds
 Time to save result matrix to file: 0.158117 seconds
 
 Time to read files: 0.130895 seconds
-Time to mutiply matrices: 0.338871 seconds
+Time to multiply matrices: 0.338871 seconds
 Time to save result matrix to file: 0.160186 seconds
 
 Time to read files: 0.131363 seconds
-Time to mutiply matrices: 0.339994 seconds
+Time to multiply matrices: 0.339994 seconds
 Time to save result matrix to file: 0.158588 seconds
 
 Time to read files: 0.130326 seconds
-Time to mutiply matrices: 0.338278 seconds
+Time to multiply matrices: 0.338278 seconds
 Time to save result matrix to file: 0.157373 seconds
 
 
 -----------------3 Thread(s)-----------------
 Time to read files: 0.180985 seconds
-Time to mutiply matrices: 0.279946 seconds
+Time to multiply matrices: 0.279946 seconds
 Time to save result matrix to file: 0.158035 seconds
 
 Time to read files: 0.130901 seconds
-Time to mutiply matrices: 0.227677 seconds
+Time to multiply matrices: 0.227677 seconds
 Time to save result matrix to file: 0.163704 seconds
 
 Time to read files: 0.16401 seconds
-Time to mutiply matrices: 0.281227 seconds
+Time to multiply matrices: 0.281227 seconds
 Time to save result matrix to file: 0.173344 seconds
 
 Time to read files: 0.143249 seconds
-Time to mutiply matrices: 0.23502 seconds
+Time to multiply matrices: 0.23502 seconds
 Time to save result matrix to file: 0.16074 seconds
 
 Time to read files: 0.131572 seconds
-Time to mutiply matrices: 0.229523 seconds
+Time to multiply matrices: 0.229523 seconds
 Time to save result matrix to file: 0.165804 seconds
 
 Time to read files: 0.141679 seconds
-Time to mutiply matrices: 0.229961 seconds
+Time to multiply matrices: 0.229961 seconds
 Time to save result matrix to file: 0.158236 seconds
 
 Time to read files: 0.13911 seconds
-Time to mutiply matrices: 0.236079 seconds
+Time to multiply matrices: 0.236079 seconds
 Time to save result matrix to file: 0.160898 seconds
 
 Time to read files: 0.130996 seconds
-Time to mutiply matrices: 0.273344 seconds
+Time to multiply matrices: 0.273344 seconds
 Time to save result matrix to file: 0.165326 seconds
 
 Time to read files: 0.13043 seconds
-Time to mutiply matrices: 0.229388 seconds
+Time to multiply matrices: 0.229388 seconds
 Time to save result matrix to file: 0.159482 seconds
 
 Time to read files: 0.139642 seconds
-Time to mutiply matrices: 0.278544 seconds
+Time to multiply matrices: 0.278544 seconds
 Time to save result matrix to file: 0.158864 seconds
 
 
 -----------------4 Thread(s)-----------------
 Time to read files: 0.127979 seconds
-Time to mutiply matrices: 0.22082 seconds
+Time to multiply matrices: 0.22082 seconds
 Time to save result matrix to file: 0.158441 seconds
 
 Time to read files: 0.136405 seconds
-Time to mutiply matrices: 0.234864 seconds
+Time to multiply matrices: 0.234864 seconds
 Time to save result matrix to file: 0.166893 seconds
 
 Time to read files: 0.137498 seconds
-Time to mutiply matrices: 0.225715 seconds
+Time to multiply matrices: 0.225715 seconds
 Time to save result matrix to file: 0.159646 seconds
 
 Time to read files: 0.130865 seconds
-Time to mutiply matrices: 0.221399 seconds
+Time to multiply matrices: 0.221399 seconds
 Time to save result matrix to file: 0.157944 seconds
 
 Time to read files: 0.164861 seconds
-Time to mutiply matrices: 0.226105 seconds
+Time to multiply matrices: 0.226105 seconds
 Time to save result matrix to file: 0.158074 seconds
 
 Time to read files: 0.141267 seconds
-Time to mutiply matrices: 0.227332 seconds
+Time to multiply matrices: 0.227332 seconds
 Time to save result matrix to file: 0.16319 seconds
 
 Time to read files: 0.145322 seconds
-Time to mutiply matrices: 0.234285 seconds
+Time to multiply matrices: 0.234285 seconds
 Time to save result matrix to file: 0.159671 seconds
 
 Time to read files: 0.163811 seconds
-Time to mutiply matrices: 0.234399 seconds
+Time to multiply matrices: 0.234399 seconds
 Time to save result matrix to file: 0.166683 seconds
 
 Time to read files: 0.134321 seconds
-Time to mutiply matrices: 0.24004 seconds
+Time to multiply matrices: 0.24004 seconds
 Time to save result matrix to file: 0.160906 seconds
 
 Time to read files: 0.12721 seconds
-Time to mutiply matrices: 0.223468 seconds
+Time to multiply matrices: 0.223468 seconds
 Time to save result matrix to file: 0.158331 seconds
 
 
 -----------------5 Thread(s)-----------------
 Time to read files: 0.131101 seconds
-Time to mutiply matrices: 0.237463 seconds
+Time to multiply matrices: 0.237463 seconds
 Time to save result matrix to file: 0.158464 seconds
 
 Time to read files: 0.140166 seconds
-Time to mutiply matrices: 0.260069 seconds
+Time to multiply matrices: 0.260069 seconds
 Time to save result matrix to file: 0.158689 seconds
 
 Time to read files: 0.141696 seconds
-Time to mutiply matrices: 0.218375 seconds
+Time to multiply matrices: 0.218375 seconds
 Time to save result matrix to file: 0.160563 seconds
 
 Time to read files: 0.137073 seconds
-Time to mutiply matrices: 0.232374 seconds
+Time to multiply matrices: 0.232374 seconds
 Time to save result matrix to file: 0.162052 seconds
 
 Time to read files: 0.138312 seconds
-Time to mutiply matrices: 0.226825 seconds
+Time to multiply matrices: 0.226825 seconds
 Time to save result matrix to file: 0.164327 seconds
 
 Time to read files: 0.13822 seconds
-Time to mutiply matrices: 0.250957 seconds
+Time to multiply matrices: 0.250957 seconds
 Time to save result matrix to file: 0.160816 seconds
 
 Time to read files: 0.131017 seconds
-Time to mutiply matrices: 0.22665 seconds
+Time to multiply matrices: 0.22665 seconds
 Time to save result matrix to file: 0.159013 seconds
 
 Time to read files: 0.165968 seconds
-Time to mutiply matrices: 0.214336 seconds
+Time to multiply matrices: 0.214336 seconds
 Time to save result matrix to file: 0.162797 seconds
 
 Time to read files: 0.136875 seconds
-Time to mutiply matrices: 0.249156 seconds
+Time to multiply matrices: 0.249156 seconds
 Time to save result matrix to file: 0.159509 seconds
 
 Time to read files: 0.140804 seconds
-Time to mutiply matrices: 0.245762 seconds
+Time to multiply matrices: 0.245762 seconds
 Time to save result matrix to file: 0.15835 seconds
 
 
 -----------------6 Thread(s)-----------------
 Time to read files: 0.130891 seconds
-Time to mutiply matrices: 0.215161 seconds
+Time to multiply matrices: 0.215161 seconds
 Time to save result matrix to file: 0.160745 seconds
 
 Time to read files: 0.130808 seconds
-Time to mutiply matrices: 0.195291 seconds
+Time to multiply matrices: 0.195291 seconds
 Time to save result matrix to file: 0.159305 seconds
 
 Time to read files: 0.128319 seconds
-Time to mutiply matrices: 0.232751 seconds
+Time to multiply matrices: 0.232751 seconds
 Time to save result matrix to file: 0.161842 seconds
 
 Time to read files: 0.136688 seconds
-Time to mutiply matrices: 0.186312 seconds
+Time to multiply matrices: 0.186312 seconds
 Time to save result matrix to file: 0.161803 seconds
 
 Time to read files: 0.155612 seconds
-Time to mutiply matrices: 0.22508 seconds
+Time to multiply matrices: 0.22508 seconds
 Time to save result matrix to file: 0.160349 seconds
 
 Time to read files: 0.144444 seconds
-Time to mutiply matrices: 0.202663 seconds
+Time to multiply matrices: 0.202663 seconds
 Time to save result matrix to file: 0.159598 seconds
 
 Time to read files: 0.162582 seconds
-Time to mutiply matrices: 0.237791 seconds
+Time to multiply matrices: 0.237791 seconds
 Time to save result matrix to file: 0.16103 seconds
 
 Time to read files: 0.141516 seconds
-Time to mutiply matrices: 0.19696 seconds
+Time to multiply matrices: 0.19696 seconds
 Time to save result matrix to file: 0.159256 seconds
 
 Time to read files: 0.130809 seconds
-Time to mutiply matrices: 0.242169 seconds
+Time to multiply matrices: 0.242169 seconds
 Time to save result matrix to file: 0.173796 seconds
 
 Time to read files: 0.128173 seconds
-Time to mutiply matrices: 0.217935 seconds
+Time to multiply matrices: 0.217935 seconds
 Time to save result matrix to file: 0.160279 seconds
 
 
 -----------------7 Thread(s)-----------------
 Time to read files: 0.132142 seconds
-Time to mutiply matrices: 0.213275 seconds
+Time to multiply matrices: 0.213275 seconds
 Time to save result matrix to file: 0.161838 seconds
 
 Time to read files: 0.139564 seconds
-Time to mutiply matrices: 0.245515 seconds
+Time to multiply matrices: 0.245515 seconds
 Time to save result matrix to file: 0.161228 seconds
 
 Time to read files: 0.130955 seconds
-Time to mutiply matrices: 0.213051 seconds
+Time to multiply matrices: 0.213051 seconds
 Time to save result matrix to file: 0.163181 seconds
 
 Time to read files: 0.143871 seconds
-Time to mutiply matrices: 0.189137 seconds
+Time to multiply matrices: 0.189137 seconds
 Time to save result matrix to file: 0.16103 seconds
 
 Time to read files: 0.130992 seconds
-Time to mutiply matrices: 0.173783 seconds
+Time to multiply matrices: 0.173783 seconds
 Time to save result matrix to file: 0.162436 seconds
 
 Time to read files: 0.131554 seconds
-Time to mutiply matrices: 0.224707 seconds
+Time to multiply matrices: 0.224707 seconds
 Time to save result matrix to file: 0.159061 seconds
 
 Time to read files: 0.131345 seconds
-Time to mutiply matrices: 0.188819 seconds
+Time to multiply matrices: 0.188819 seconds
 Time to save result matrix to file: 0.163758 seconds
 
 Time to read files: 0.142415 seconds
-Time to mutiply matrices: 0.230486 seconds
+Time to multiply matrices: 0.230486 seconds
 Time to save result matrix to file: 0.162533 seconds
 
 Time to read files: 0.13891 seconds
-Time to mutiply matrices: 0.17842 seconds
+Time to multiply matrices: 0.17842 seconds
 Time to save result matrix to file: 0.160919 seconds
 
 Time to read files: 0.131779 seconds
-Time to mutiply matrices: 0.226626 seconds
+Time to multiply matrices: 0.226626 seconds
 Time to save result matrix to file: 0.158936 seconds
 
 
 -----------------8 Thread(s)-----------------
 Time to read files: 0.135838 seconds
-Time to mutiply matrices: 0.200872 seconds
+Time to multiply matrices: 0.200872 seconds
 Time to save result matrix to file: 0.160073 seconds
 
 Time to read files: 0.132347 seconds
-Time to mutiply matrices: 0.196784 seconds
+Time to multiply matrices: 0.196784 seconds
 Time to save result matrix to file: 0.159491 seconds
 
 Time to read files: 0.131636 seconds
-Time to mutiply matrices: 0.208492 seconds
+Time to multiply matrices: 0.208492 seconds
 Time to save result matrix to file: 0.158782 seconds
 
 Time to read files: 0.143353 seconds
-Time to mutiply matrices: 0.22399 seconds
+Time to multiply matrices: 0.22399 seconds
 Time to save result matrix to file: 0.158896 seconds
 
 Time to read files: 0.143999 seconds
-Time to mutiply matrices: 0.190196 seconds
+Time to multiply matrices: 0.190196 seconds
 Time to save result matrix to file: 0.158823 seconds
 
 Time to read files: 0.133972 seconds
-Time to mutiply matrices: 0.237221 seconds
+Time to multiply matrices: 0.237221 seconds
 Time to save result matrix to file: 0.159286 seconds
 
 Time to read files: 0.144413 seconds
-Time to mutiply matrices: 0.223254 seconds
+Time to multiply matrices: 0.223254 seconds
 Time to save result matrix to file: 0.164662 seconds
 
 Time to read files: 0.12826 seconds
-Time to mutiply matrices: 0.209822 seconds
+Time to multiply matrices: 0.209822 seconds
 Time to save result matrix to file: 0.168751 seconds
 
 Time to read files: 0.143647 seconds
-Time to mutiply matrices: 0.227584 seconds
+Time to multiply matrices: 0.227584 seconds
 Time to save result matrix to file: 0.161716 seconds
 
 Time to read files: 0.131044 seconds
-Time to mutiply matrices: 0.201266 seconds
+Time to multiply matrices: 0.201266 seconds
 Time to save result matrix to file: 0.157871 seconds
 
 
 -----------------9 Thread(s)-----------------
 Time to read files: 0.131232 seconds
-Time to mutiply matrices: 0.228864 seconds
+Time to multiply matrices: 0.228864 seconds
 Time to save result matrix to file: 0.159905 seconds
 
 Time to read files: 0.140883 seconds
-Time to mutiply matrices: 0.204518 seconds
+Time to multiply matrices: 0.204518 seconds
 Time to save result matrix to file: 0.161861 seconds
 
 Time to read files: 0.144516 seconds
-Time to mutiply matrices: 0.244952 seconds
+Time to multiply matrices: 0.244952 seconds
 Time to save result matrix to file: 0.159482 seconds
 
 Time to read files: 0.153795 seconds
-Time to mutiply matrices: 0.199693 seconds
+Time to multiply matrices: 0.199693 seconds
 Time to save result matrix to file: 0.159368 seconds
 
 Time to read files: 0.136975 seconds
-Time to mutiply matrices: 0.213645 seconds
+Time to multiply matrices: 0.213645 seconds
 Time to save result matrix to file: 0.163117 seconds
 
 Time to read files: 0.131083 seconds
-Time to mutiply matrices: 0.198236 seconds
+Time to multiply matrices: 0.198236 seconds
 Time to save result matrix to file: 0.160502 seconds
 
 Time to read files: 0.132452 seconds
-Time to mutiply matrices: 0.193502 seconds
+Time to multiply matrices: 0.193502 seconds
 Time to save result matrix to file: 0.159485 seconds
 
 Time to read files: 0.131337 seconds
-Time to mutiply matrices: 0.189529 seconds
+Time to multiply matrices: 0.189529 seconds
 Time to save result matrix to file: 0.158337 seconds
 
 Time to read files: 0.133407 seconds
-Time to mutiply matrices: 0.188028 seconds
+Time to multiply matrices: 0.188028 seconds
 Time to save result matrix to file: 0.159015 seconds
 
 Time to read files: 0.127191 seconds
-Time to mutiply matrices: 0.207742 seconds
+Time to multiply matrices: 0.207742 seconds
 Time to save result matrix to file: 0.158224 seconds
 
 
 -----------------10 Thread(s)-----------------
 Time to read files: 0.132452 seconds
-Time to mutiply matrices: 0.185745 seconds
+Time to multiply matrices: 0.185745 seconds
 Time to save result matrix to file: 0.162017 seconds
 
 Time to read files: 0.132178 seconds
-Time to mutiply matrices: 0.189864 seconds
+Time to multiply matrices: 0.189864 seconds
 Time to save result matrix to file: 0.159257 seconds
 
 Time to read files: 0.12996 seconds
-Time to mutiply matrices: 0.202843 seconds
+Time to multiply matrices: 0.202843 seconds
 Time to save result matrix to file: 0.157876 seconds
 
 Time to read files: 0.132598 seconds
-Time to mutiply matrices: 0.206521 seconds
+Time to multiply matrices: 0.206521 seconds
 Time to save result matrix to file: 0.163308 seconds
 
 Time to read files: 0.130768 seconds
-Time to mutiply matrices: 0.207287 seconds
+Time to multiply matrices: 0.207287 seconds
 Time to save result matrix to file: 0.158065 seconds
 
 Time to read files: 0.130684 seconds
-Time to mutiply matrices: 0.204036 seconds
+Time to multiply matrices: 0.204036 seconds
 Time to save result matrix to file: 0.160401 seconds
 
 Time to read files: 0.138442 seconds
-Time to mutiply matrices: 0.21523 seconds
+Time to multiply matrices: 0.21523 seconds
 Time to save result matrix to file: 0.159066 seconds
 
 Time to read files: 0.132486 seconds
-Time to mutiply matrices: 0.181435 seconds
+Time to multiply matrices: 0.181435 seconds
 Time to save result matrix to file: 0.161812 seconds
 
 Time to read files: 0.127573 seconds
-Time to mutiply matrices: 0.227099 seconds
+Time to multiply matrices: 0.227099 seconds
 Time to save result matrix to file: 0.15851 seconds
 
 Time to read files: 0.133182 seconds
-Time to mutiply matrices: 0.198679 seconds
+Time to multiply matrices: 0.198679 seconds
 Time to save result matrix to file: 0.159432 seconds
 
 
 -----------------11 Thread(s)-----------------
 Time to read files: 0.137253 seconds
-Time to mutiply matrices: 0.21217 seconds
+Time to multiply matrices: 0.21217 seconds
 Time to save result matrix to file: 0.163083 seconds
 
 Time to read files: 0.136865 seconds
-Time to mutiply matrices: 0.200295 seconds
+Time to multiply matrices: 0.200295 seconds
 Time to save result matrix to file: 0.166912 seconds
 
 Time to read files: 0.127029 seconds
-Time to mutiply matrices: 0.225599 seconds
+Time to multiply matrices: 0.225599 seconds
 Time to save result matrix to file: 0.159628 seconds
 
 Time to read files: 0.162802 seconds
-Time to mutiply matrices: 0.209376 seconds
+Time to multiply matrices: 0.209376 seconds
 Time to save result matrix to file: 0.163076 seconds
 
 Time to read files: 0.130878 seconds
-Time to mutiply matrices: 0.205874 seconds
+Time to multiply matrices: 0.205874 seconds
 Time to save result matrix to file: 0.158561 seconds
 
 Time to read files: 0.128719 seconds
-Time to mutiply matrices: 0.22142 seconds
+Time to multiply matrices: 0.22142 seconds
 Time to save result matrix to file: 0.161333 seconds
 
 Time to read files: 0.130437 seconds
-Time to mutiply matrices: 0.226227 seconds
+Time to multiply matrices: 0.226227 seconds
 Time to save result matrix to file: 0.185267 seconds
 
 Time to read files: 0.13021 seconds
-Time to mutiply matrices: 0.235911 seconds
+Time to multiply matrices: 0.235911 seconds
 Time to save result matrix to file: 0.159966 seconds
 
 Time to read files: 0.135942 seconds
-Time to mutiply matrices: 0.223598 seconds
+Time to multiply matrices: 0.223598 seconds
 Time to save result matrix to file: 0.163694 seconds
 
 Time to read files: 0.136913 seconds
-Time to mutiply matrices: 0.188297 seconds
+Time to multiply matrices: 0.188297 seconds
 Time to save result matrix to file: 0.163658 seconds
 
 
 -----------------12 Thread(s)-----------------
 Time to read files: 0.131178 seconds
-Time to mutiply matrices: 0.19446 seconds
+Time to multiply matrices: 0.19446 seconds
 Time to save result matrix to file: 0.165443 seconds
 
 Time to read files: 0.140028 seconds
-Time to mutiply matrices: 0.226849 seconds
+Time to multiply matrices: 0.226849 seconds
 Time to save result matrix to file: 0.167085 seconds
 
 Time to read files: 0.132052 seconds
-Time to mutiply matrices: 0.232773 seconds
+Time to multiply matrices: 0.232773 seconds
 Time to save result matrix to file: 0.159975 seconds
 
 Time to read files: 0.132978 seconds
-Time to mutiply matrices: 0.199421 seconds
+Time to multiply matrices: 0.199421 seconds
 Time to save result matrix to file: 0.159433 seconds
 
 Time to read files: 0.173929 seconds
-Time to mutiply matrices: 0.240275 seconds
+Time to multiply matrices: 0.240275 seconds
 Time to save result matrix to file: 0.159937 seconds
 
 Time to read files: 0.144208 seconds
-Time to mutiply matrices: 0.182681 seconds
+Time to multiply matrices: 0.182681 seconds
 Time to save result matrix to file: 0.160168 seconds
 
 Time to read files: 0.132589 seconds
-Time to mutiply matrices: 0.187378 seconds
+Time to multiply matrices: 0.187378 seconds
 Time to save result matrix to file: 0.160682 seconds
 
 Time to read files: 0.165316 seconds
-Time to mutiply matrices: 0.19609 seconds
+Time to multiply matrices: 0.19609 seconds
 Time to save result matrix to file: 0.1584 seconds
 
 Time to read files: 0.138366 seconds
-Time to mutiply matrices: 0.235124 seconds
+Time to multiply matrices: 0.235124 seconds
 Time to save result matrix to file: 0.161808 seconds
 
 Time to read files: 0.131035 seconds
-Time to mutiply matrices: 0.206564 seconds
+Time to multiply matrices: 0.206564 seconds
 Time to save result matrix to file: 0.159216 seconds
 
 
 -----------------13 Thread(s)-----------------
 Time to read files: 0.128249 seconds
-Time to mutiply matrices: 0.197138 seconds
+Time to multiply matrices: 0.197138 seconds
 Time to save result matrix to file: 0.159453 seconds
 
 Time to read files: 0.132619 seconds
-Time to mutiply matrices: 0.20422 seconds
+Time to multiply matrices: 0.20422 seconds
 Time to save result matrix to file: 0.163319 seconds
 
 Time to read files: 0.132862 seconds
-Time to mutiply matrices: 0.200921 seconds
+Time to multiply matrices: 0.200921 seconds
 Time to save result matrix to file: 0.159551 seconds
 
 Time to read files: 0.128504 seconds
-Time to mutiply matrices: 0.205542 seconds
+Time to multiply matrices: 0.205542 seconds
 Time to save result matrix to file: 0.159482 seconds
 
 Time to read files: 0.165654 seconds
-Time to mutiply matrices: 0.232465 seconds
+Time to multiply matrices: 0.232465 seconds
 Time to save result matrix to file: 0.159246 seconds
 
 Time to read files: 0.13225 seconds
-Time to mutiply matrices: 0.206233 seconds
+Time to multiply matrices: 0.206233 seconds
 Time to save result matrix to file: 0.171788 seconds
 
 Time to read files: 0.136885 seconds
-Time to mutiply matrices: 0.178213 seconds
+Time to multiply matrices: 0.178213 seconds
 Time to save result matrix to file: 0.16257 seconds
 
 Time to read files: 0.146643 seconds
-Time to mutiply matrices: 0.190014 seconds
+Time to multiply matrices: 0.190014 seconds
 Time to save result matrix to file: 0.163952 seconds
 
 Time to read files: 0.136007 seconds
-Time to mutiply matrices: 0.187002 seconds
+Time to multiply matrices: 0.187002 seconds
 Time to save result matrix to file: 0.15832 seconds
 
 Time to read files: 0.133209 seconds
-Time to mutiply matrices: 0.199322 seconds
+Time to multiply matrices: 0.199322 seconds
 Time to save result matrix to file: 0.161494 seconds
 
 
 -----------------14 Thread(s)-----------------
 Time to read files: 0.135415 seconds
-Time to mutiply matrices: 0.189776 seconds
+Time to multiply matrices: 0.189776 seconds
 Time to save result matrix to file: 0.158045 seconds
 
 Time to read files: 0.131678 seconds
-Time to mutiply matrices: 0.193199 seconds
+Time to multiply matrices: 0.193199 seconds
 Time to save result matrix to file: 0.162678 seconds
 
 Time to read files: 0.134426 seconds
-Time to mutiply matrices: 0.189326 seconds
+Time to multiply matrices: 0.189326 seconds
 Time to save result matrix to file: 0.16029 seconds
 
 Time to read files: 0.132329 seconds
-Time to mutiply matrices: 0.207127 seconds
+Time to multiply matrices: 0.207127 seconds
 Time to save result matrix to file: 0.160264 seconds
 
 Time to read files: 0.139972 seconds
-Time to mutiply matrices: 0.209835 seconds
+Time to multiply matrices: 0.209835 seconds
 Time to save result matrix to file: 0.162092 seconds
 
 Time to read files: 0.131438 seconds
-Time to mutiply matrices: 0.191701 seconds
+Time to multiply matrices: 0.191701 seconds
 Time to save result matrix to file: 0.159445 seconds
 
 Time to read files: 0.136156 seconds
-Time to mutiply matrices: 0.18156 seconds
+Time to multiply matrices: 0.18156 seconds
 Time to save result matrix to file: 0.158305 seconds
 
 Time to read files: 0.16311 seconds
-Time to mutiply matrices: 0.210699 seconds
+Time to multiply matrices: 0.210699 seconds
 Time to save result matrix to file: 0.161458 seconds
 
 Time to read files: 0.128595 seconds
-Time to mutiply matrices: 0.204657 seconds
+Time to multiply matrices: 0.204657 seconds
 Time to save result matrix to file: 0.160984 seconds
 
 Time to read files: 0.143719 seconds
-Time to mutiply matrices: 0.216043 seconds
+Time to multiply matrices: 0.216043 seconds
 Time to save result matrix to file: 0.162581 seconds
 
 
 -----------------15 Thread(s)-----------------
 Time to read files: 0.13329 seconds
-Time to mutiply matrices: 0.204631 seconds
+Time to multiply matrices: 0.204631 seconds
 Time to save result matrix to file: 0.160692 seconds
 
 Time to read files: 0.165543 seconds
-Time to mutiply matrices: 0.2023 seconds
+Time to multiply matrices: 0.2023 seconds
 Time to save result matrix to file: 0.158473 seconds
 
 Time to read files: 0.139408 seconds
-Time to mutiply matrices: 0.217334 seconds
+Time to multiply matrices: 0.217334 seconds
 Time to save result matrix to file: 0.163075 seconds
 
 Time to read files: 0.133333 seconds
-Time to mutiply matrices: 0.189693 seconds
+Time to multiply matrices: 0.189693 seconds
 Time to save result matrix to file: 0.15928 seconds
 
 Time to read files: 0.131117 seconds
-Time to mutiply matrices: 0.223755 seconds
+Time to multiply matrices: 0.223755 seconds
 Time to save result matrix to file: 0.159781 seconds
 
 Time to read files: 0.134305 seconds
-Time to mutiply matrices: 0.198347 seconds
+Time to multiply matrices: 0.198347 seconds
 Time to save result matrix to file: 0.158565 seconds
 
 Time to read files: 0.127391 seconds
-Time to mutiply matrices: 0.177168 seconds
+Time to multiply matrices: 0.177168 seconds
 Time to save result matrix to file: 0.159297 seconds
 
 Time to read files: 0.130791 seconds
-Time to mutiply matrices: 0.201093 seconds
+Time to multiply matrices: 0.201093 seconds
 Time to save result matrix to file: 0.159501 seconds
 
 Time to read files: 0.134236 seconds
-Time to mutiply matrices: 0.196351 seconds
+Time to multiply matrices: 0.196351 seconds
 Time to save result matrix to file: 0.158433 seconds
 
 Time to read files: 0.130604 seconds
-Time to mutiply matrices: 0.174497 seconds
+Time to multiply matrices: 0.174497 seconds
 Time to save result matrix to file: 0.160142 seconds
 
 
 -----------------16 Thread(s)-----------------
 Time to read files: 0.130653 seconds
-Time to mutiply matrices: 0.174515 seconds
+Time to multiply matrices: 0.174515 seconds
 Time to save result matrix to file: 0.158674 seconds
 
 Time to read files: 0.130969 seconds
-Time to mutiply matrices: 0.222345 seconds
+Time to multiply matrices: 0.222345 seconds
 Time to save result matrix to file: 0.166311 seconds
 
 Time to read files: 0.133644 seconds
-Time to mutiply matrices: 0.203706 seconds
+Time to multiply matrices: 0.203706 seconds
 Time to save result matrix to file: 0.159311 seconds
 
 Time to read files: 0.13657 seconds
-Time to mutiply matrices: 0.19678 seconds
+Time to multiply matrices: 0.19678 seconds
 Time to save result matrix to file: 0.159707 seconds
 
 Time to read files: 0.167129 seconds
-Time to mutiply matrices: 0.177941 seconds
+Time to multiply matrices: 0.177941 seconds
 Time to save result matrix to file: 0.158608 seconds
 
 Time to read files: 0.135872 seconds
-Time to mutiply matrices: 0.217471 seconds
+Time to multiply matrices: 0.217471 seconds
 Time to save result matrix to file: 0.162842 seconds
 
 Time to read files: 0.13052 seconds
-Time to mutiply matrices: 0.194007 seconds
+Time to multiply matrices: 0.194007 seconds
 Time to save result matrix to file: 0.159809 seconds
 
 Time to read files: 0.132365 seconds
-Time to mutiply matrices: 0.20805 seconds
+Time to multiply matrices: 0.20805 seconds
 Time to save result matrix to file: 0.163408 seconds
 
 Time to read files: 0.135801 seconds
-Time to mutiply matrices: 0.251813 seconds
+Time to multiply matrices: 0.251813 seconds
 Time to save result matrix to file: 0.162794 seconds
 
 Time to read files: 0.128419 seconds
-Time to mutiply matrices: 0.198593 seconds
+Time to multiply matrices: 0.198593 seconds
 Time to save result matrix to file: 0.160069 seconds
 
 
 -----------------17 Thread(s)-----------------
 Time to read files: 0.136174 seconds
-Time to mutiply matrices: 0.185974 seconds
+Time to multiply matrices: 0.185974 seconds
 Time to save result matrix to file: 0.160942 seconds
 
 Time to read files: 0.131833 seconds
-Time to mutiply matrices: 0.19619 seconds
+Time to multiply matrices: 0.19619 seconds
 Time to save result matrix to file: 0.161895 seconds
 
 Time to read files: 0.131963 seconds
-Time to mutiply matrices: 0.19727 seconds
+Time to multiply matrices: 0.19727 seconds
 Time to save result matrix to file: 0.159626 seconds
 
 Time to read files: 0.134681 seconds
-Time to mutiply matrices: 0.180998 seconds
+Time to multiply matrices: 0.180998 seconds
 Time to save result matrix to file: 0.159317 seconds
 
 Time to read files: 0.131321 seconds
-Time to mutiply matrices: 0.194894 seconds
+Time to multiply matrices: 0.194894 seconds
 Time to save result matrix to file: 0.160562 seconds
 
 Time to read files: 0.130877 seconds
-Time to mutiply matrices: 0.177433 seconds
+Time to multiply matrices: 0.177433 seconds
 Time to save result matrix to file: 0.158832 seconds
 
 Time to read files: 0.128208 seconds
-Time to mutiply matrices: 0.200535 seconds
+Time to multiply matrices: 0.200535 seconds
 Time to save result matrix to file: 0.159528 seconds
 
 Time to read files: 0.127234 seconds
-Time to mutiply matrices: 0.195371 seconds
+Time to multiply matrices: 0.195371 seconds
 Time to save result matrix to file: 0.161174 seconds
 
 Time to read files: 0.145451 seconds
-Time to mutiply matrices: 0.182605 seconds
+Time to multiply matrices: 0.182605 seconds
 Time to save result matrix to file: 0.161504 seconds
 
 Time to read files: 0.131791 seconds
-Time to mutiply matrices: 0.193076 seconds
+Time to multiply matrices: 0.193076 seconds
 Time to save result matrix to file: 0.162079 seconds
 
 
 -----------------18 Thread(s)-----------------
 Time to read files: 0.131877 seconds
-Time to mutiply matrices: 0.193752 seconds
+Time to multiply matrices: 0.193752 seconds
 Time to save result matrix to file: 0.159444 seconds
 
 Time to read files: 0.136645 seconds
-Time to mutiply matrices: 0.193174 seconds
+Time to multiply matrices: 0.193174 seconds
 Time to save result matrix to file: 0.163069 seconds
 
 Time to read files: 0.131058 seconds
-Time to mutiply matrices: 0.196311 seconds
+Time to multiply matrices: 0.196311 seconds
 Time to save result matrix to file: 0.160777 seconds
 
 Time to read files: 0.131982 seconds
-Time to mutiply matrices: 0.187323 seconds
+Time to multiply matrices: 0.187323 seconds
 Time to save result matrix to file: 0.15968 seconds
 
 Time to read files: 0.164374 seconds
-Time to mutiply matrices: 0.175112 seconds
+Time to multiply matrices: 0.175112 seconds
 Time to save result matrix to file: 0.172025 seconds
 
 Time to read files: 0.131289 seconds
-Time to mutiply matrices: 0.192923 seconds
+Time to multiply matrices: 0.192923 seconds
 Time to save result matrix to file: 0.158418 seconds
 
 Time to read files: 0.127454 seconds
-Time to mutiply matrices: 0.175638 seconds
+Time to multiply matrices: 0.175638 seconds
 Time to save result matrix to file: 0.159823 seconds
 
 Time to read files: 0.128462 seconds
-Time to mutiply matrices: 0.191424 seconds
+Time to multiply matrices: 0.191424 seconds
 Time to save result matrix to file: 0.159417 seconds
 
 Time to read files: 0.136051 seconds
-Time to mutiply matrices: 0.189868 seconds
+Time to multiply matrices: 0.189868 seconds
 Time to save result matrix to file: 0.162149 seconds
 
 Time to read files: 0.13192 seconds
-Time to mutiply matrices: 0.202671 seconds
+Time to multiply matrices: 0.202671 seconds
 Time to save result matrix to file: 0.159657 seconds
 
 
 -----------------19 Thread(s)-----------------
 Time to read files: 0.131291 seconds
-Time to mutiply matrices: 0.196633 seconds
+Time to multiply matrices: 0.196633 seconds
 Time to save result matrix to file: 0.160737 seconds
 
 Time to read files: 0.135133 seconds
-Time to mutiply matrices: 0.193287 seconds
+Time to multiply matrices: 0.193287 seconds
 Time to save result matrix to file: 0.159194 seconds
 
 Time to read files: 0.133416 seconds
-Time to mutiply matrices: 0.182501 seconds
+Time to multiply matrices: 0.182501 seconds
 Time to save result matrix to file: 0.160738 seconds
 
 Time to read files: 0.13049 seconds
-Time to mutiply matrices: 0.195773 seconds
+Time to multiply matrices: 0.195773 seconds
 Time to save result matrix to file: 0.159433 seconds
 
 Time to read files: 0.134833 seconds
-Time to mutiply matrices: 0.175334 seconds
+Time to multiply matrices: 0.175334 seconds
 Time to save result matrix to file: 0.158365 seconds
 
 Time to read files: 0.130952 seconds
-Time to mutiply matrices: 0.175415 seconds
+Time to multiply matrices: 0.175415 seconds
 Time to save result matrix to file: 0.160679 seconds
 
 Time to read files: 0.127439 seconds
-Time to mutiply matrices: 0.188652 seconds
+Time to multiply matrices: 0.188652 seconds
 Time to save result matrix to file: 0.158418 seconds
 
 Time to read files: 0.127257 seconds
-Time to mutiply matrices: 0.202693 seconds
+Time to multiply matrices: 0.202693 seconds
 Time to save result matrix to file: 0.159064 seconds
 
 Time to read files: 0.133104 seconds
-Time to mutiply matrices: 0.183524 seconds
+Time to multiply matrices: 0.183524 seconds
 Time to save result matrix to file: 0.15959 seconds
 
 Time to read files: 0.131054 seconds
-Time to mutiply matrices: 0.195353 seconds
+Time to multiply matrices: 0.195353 seconds
 Time to save result matrix to file: 0.16069 seconds
 
 
 -----------------20 Thread(s)-----------------
 Time to read files: 0.128912 seconds
-Time to mutiply matrices: 0.200883 seconds
+Time to multiply matrices: 0.200883 seconds
 Time to save result matrix to file: 0.159663 seconds
 
 Time to read files: 0.135664 seconds
-Time to mutiply matrices: 0.211786 seconds
+Time to multiply matrices: 0.211786 seconds
 Time to save result matrix to file: 0.159754 seconds
 
 Time to read files: 0.131189 seconds
-Time to mutiply matrices: 0.196884 seconds
+Time to multiply matrices: 0.196884 seconds
 Time to save result matrix to file: 0.162466 seconds
 
 Time to read files: 0.168304 seconds
-Time to mutiply matrices: 0.198755 seconds
+Time to multiply matrices: 0.198755 seconds
 Time to save result matrix to file: 0.158348 seconds
 
 Time to read files: 0.133529 seconds
-Time to mutiply matrices: 0.192874 seconds
+Time to multiply matrices: 0.192874 seconds
 Time to save result matrix to file: 0.162356 seconds
 
 Time to read files: 0.132267 seconds
-Time to mutiply matrices: 0.172454 seconds
+Time to multiply matrices: 0.172454 seconds
 Time to save result matrix to file: 0.162775 seconds
 
 Time to read files: 0.127602 seconds
-Time to mutiply matrices: 0.17907 seconds
+Time to multiply matrices: 0.17907 seconds
 Time to save result matrix to file: 0.158599 seconds
 
 Time to read files: 0.131056 seconds
-Time to mutiply matrices: 0.21805 seconds
+Time to multiply matrices: 0.21805 seconds
 Time to save result matrix to file: 0.159628 seconds
 
 Time to read files: 0.139503 seconds
-Time to mutiply matrices: 0.201435 seconds
+Time to multiply matrices: 0.201435 seconds
 Time to save result matrix to file: 0.158407 seconds
 
 Time to read files: 0.131269 seconds
-Time to mutiply matrices: 0.179727 seconds
+Time to multiply matrices: 0.179727 seconds
 Time to save result matrix to file: 0.165618 seconds
 
 
 -----------------21 Thread(s)-----------------
 Time to read files: 0.131843 seconds
-Time to mutiply matrices: 0.183994 seconds
+Time to multiply matrices: 0.183994 seconds
 Time to save result matrix to file: 0.159649 seconds
 
 Time to read files: 0.131439 seconds
-Time to mutiply matrices: 0.202982 seconds
+Time to multiply matrices: 0.202982 seconds
 Time to save result matrix to file: 0.159016 seconds
 
 Time to read files: 0.131072 seconds
-Time to mutiply matrices: 0.176298 seconds
+Time to multiply matrices: 0.176298 seconds
 Time to save result matrix to file: 0.165544 seconds
 
 Time to read files: 0.165234 seconds
-Time to mutiply matrices: 0.177498 seconds
+Time to multiply matrices: 0.177498 seconds
 Time to save result matrix to file: 0.172892 seconds
 
 Time to read files: 0.130511 seconds
-Time to mutiply matrices: 0.195809 seconds
+Time to multiply matrices: 0.195809 seconds
 Time to save result matrix to file: 0.157873 seconds
 
 Time to read files: 0.131572 seconds
-Time to mutiply matrices: 0.198965 seconds
+Time to multiply matrices: 0.198965 seconds
 Time to save result matrix to file: 0.159805 seconds
 
 Time to read files: 0.159443 seconds
-Time to mutiply matrices: 0.19073 seconds
+Time to multiply matrices: 0.19073 seconds
 Time to save result matrix to file: 0.160549 seconds
 
 Time to read files: 0.17066 seconds
-Time to mutiply matrices: 0.190401 seconds
+Time to multiply matrices: 0.190401 seconds
 Time to save result matrix to file: 0.157829 seconds
 
 Time to read files: 0.136203 seconds
-Time to mutiply matrices: 0.192277 seconds
+Time to multiply matrices: 0.192277 seconds
 Time to save result matrix to file: 0.159016 seconds
 
 Time to read files: 0.127605 seconds
-Time to mutiply matrices: 0.198475 seconds
+Time to multiply matrices: 0.198475 seconds
 Time to save result matrix to file: 0.159712 seconds
 
 
 -----------------22 Thread(s)-----------------
 Time to read files: 0.131844 seconds
-Time to mutiply matrices: 0.192373 seconds
+Time to multiply matrices: 0.192373 seconds
 Time to save result matrix to file: 0.163873 seconds
 
 Time to read files: 0.141931 seconds
-Time to mutiply matrices: 0.186602 seconds
+Time to multiply matrices: 0.186602 seconds
 Time to save result matrix to file: 0.158593 seconds
 
 Time to read files: 0.130472 seconds
-Time to mutiply matrices: 0.193213 seconds
+Time to multiply matrices: 0.193213 seconds
 Time to save result matrix to file: 0.161363 seconds
 
 Time to read files: 0.137163 seconds
-Time to mutiply matrices: 0.202397 seconds
+Time to multiply matrices: 0.202397 seconds
 Time to save result matrix to file: 0.164249 seconds
 
 Time to read files: 0.136012 seconds
-Time to mutiply matrices: 0.181293 seconds
+Time to multiply matrices: 0.181293 seconds
 Time to save result matrix to file: 0.161466 seconds
 
 Time to read files: 0.135043 seconds
-Time to mutiply matrices: 0.197014 seconds
+Time to multiply matrices: 0.197014 seconds
 Time to save result matrix to file: 0.159565 seconds
 
 Time to read files: 0.136046 seconds
-Time to mutiply matrices: 0.174167 seconds
+Time to multiply matrices: 0.174167 seconds
 Time to save result matrix to file: 0.159377 seconds
 
 Time to read files: 0.135898 seconds
-Time to mutiply matrices: 0.176396 seconds
+Time to multiply matrices: 0.176396 seconds
 Time to save result matrix to file: 0.15996 seconds
 
 Time to read files: 0.138828 seconds
-Time to mutiply matrices: 0.17938 seconds
+Time to multiply matrices: 0.17938 seconds
 Time to save result matrix to file: 0.160227 seconds
 
 Time to read files: 0.137296 seconds
-Time to mutiply matrices: 0.190821 seconds
+Time to multiply matrices: 0.190821 seconds
 Time to save result matrix to file: 0.164002 seconds
 
 
 -----------------23 Thread(s)-----------------
 Time to read files: 0.133108 seconds
-Time to mutiply matrices: 0.181003 seconds
+Time to multiply matrices: 0.181003 seconds
 Time to save result matrix to file: 0.158893 seconds
 
 Time to read files: 0.132207 seconds
-Time to mutiply matrices: 0.181026 seconds
+Time to multiply matrices: 0.181026 seconds
 Time to save result matrix to file: 0.161475 seconds
 
 Time to read files: 0.13137 seconds
-Time to mutiply matrices: 0.196646 seconds
+Time to multiply matrices: 0.196646 seconds
 Time to save result matrix to file: 0.158696 seconds
 
 Time to read files: 0.127594 seconds
-Time to mutiply matrices: 0.183848 seconds
+Time to multiply matrices: 0.183848 seconds
 Time to save result matrix to file: 0.159359 seconds
 
 Time to read files: 0.127991 seconds
-Time to mutiply matrices: 0.20606 seconds
+Time to multiply matrices: 0.20606 seconds
 Time to save result matrix to file: 0.159567 seconds
 
 Time to read files: 0.132297 seconds
-Time to mutiply matrices: 0.188071 seconds
+Time to multiply matrices: 0.188071 seconds
 Time to save result matrix to file: 0.157911 seconds
 
 Time to read files: 0.131428 seconds
-Time to mutiply matrices: 0.181294 seconds
+Time to multiply matrices: 0.181294 seconds
 Time to save result matrix to file: 0.159661 seconds
 
 Time to read files: 0.131972 seconds
-Time to mutiply matrices: 0.17985 seconds
+Time to multiply matrices: 0.17985 seconds
 Time to save result matrix to file: 0.159628 seconds
 
 Time to read files: 0.138651 seconds
-Time to mutiply matrices: 0.185508 seconds
+Time to multiply matrices: 0.185508 seconds
 Time to save result matrix to file: 0.158666 seconds
 
 Time to read files: 0.13675 seconds
-Time to mutiply matrices: 0.195617 seconds
+Time to multiply matrices: 0.195617 seconds
 Time to save result matrix to file: 0.159243 seconds
 
 
 -----------------24 Thread(s)-----------------
 Time to read files: 0.127256 seconds
-Time to mutiply matrices: 0.180549 seconds
+Time to multiply matrices: 0.180549 seconds
 Time to save result matrix to file: 0.159215 seconds
 
 Time to read files: 0.135107 seconds
-Time to mutiply matrices: 0.20674 seconds
+Time to multiply matrices: 0.20674 seconds
 Time to save result matrix to file: 0.157938 seconds
 
 Time to read files: 0.131208 seconds
-Time to mutiply matrices: 0.193036 seconds
+Time to multiply matrices: 0.193036 seconds
 Time to save result matrix to file: 0.158701 seconds
 
 Time to read files: 0.140044 seconds
-Time to mutiply matrices: 0.190525 seconds
+Time to multiply matrices: 0.190525 seconds
 Time to save result matrix to file: 0.158975 seconds
 
 Time to read files: 0.131228 seconds
-Time to mutiply matrices: 0.189165 seconds
+Time to multiply matrices: 0.189165 seconds
 Time to save result matrix to file: 0.162794 seconds
 
 Time to read files: 0.132659 seconds
-Time to mutiply matrices: 0.178945 seconds
+Time to multiply matrices: 0.178945 seconds
 Time to save result matrix to file: 0.159906 seconds
 
 Time to read files: 0.130614 seconds
-Time to mutiply matrices: 0.180971 seconds
+Time to multiply matrices: 0.180971 seconds
 Time to save result matrix to file: 0.158199 seconds
 
 Time to read files: 0.1317 seconds
-Time to mutiply matrices: 0.18899 seconds
+Time to multiply matrices: 0.18899 seconds
 Time to save result matrix to file: 0.15973 seconds
 
 Time to read files: 0.136645 seconds
-Time to mutiply matrices: 0.182266 seconds
+Time to multiply matrices: 0.182266 seconds
 Time to save result matrix to file: 0.162267 seconds
 
 Time to read files: 0.167715 seconds
-Time to mutiply matrices: 0.183246 seconds
+Time to multiply matrices: 0.183246 seconds
 Time to save result matrix to file: 0.160863 seconds
 
 
 -----------------25 Thread(s)-----------------
 Time to read files: 0.131945 seconds
-Time to mutiply matrices: 0.192921 seconds
+Time to multiply matrices: 0.192921 seconds
 Time to save result matrix to file: 0.160099 seconds
 
 Time to read files: 0.136642 seconds
-Time to mutiply matrices: 0.194154 seconds
+Time to multiply matrices: 0.194154 seconds
 Time to save result matrix to file: 0.159194 seconds
 
 Time to read files: 0.131216 seconds
-Time to mutiply matrices: 0.181339 seconds
+Time to multiply matrices: 0.181339 seconds
 Time to save result matrix to file: 0.162237 seconds
 
 Time to read files: 0.141712 seconds
-Time to mutiply matrices: 0.178738 seconds
+Time to multiply matrices: 0.178738 seconds
 Time to save result matrix to file: 0.171606 seconds
 
 Time to read files: 0.135977 seconds
-Time to mutiply matrices: 0.214541 seconds
+Time to multiply matrices: 0.214541 seconds
 Time to save result matrix to file: 0.159615 seconds
 
 Time to read files: 0.132609 seconds
-Time to mutiply matrices: 0.18452 seconds
+Time to multiply matrices: 0.18452 seconds
 Time to save result matrix to file: 0.162662 seconds
 
 Time to read files: 0.136187 seconds
-Time to mutiply matrices: 0.185248 seconds
+Time to multiply matrices: 0.185248 seconds
 Time to save result matrix to file: 0.159786 seconds
 
 Time to read files: 0.135553 seconds
-Time to mutiply matrices: 0.190595 seconds
+Time to multiply matrices: 0.190595 seconds
 Time to save result matrix to file: 0.158805 seconds
 
 Time to read files: 0.132767 seconds
-Time to mutiply matrices: 0.184286 seconds
+Time to multiply matrices: 0.184286 seconds
 Time to save result matrix to file: 0.163958 seconds
 
 Time to read files: 0.140333 seconds
-Time to mutiply matrices: 0.19458 seconds
+Time to multiply matrices: 0.19458 seconds
 Time to save result matrix to file: 0.161208 seconds
 
 
 -----------------26 Thread(s)-----------------
 Time to read files: 0.13237 seconds
-Time to mutiply matrices: 0.190708 seconds
+Time to multiply matrices: 0.190708 seconds
 Time to save result matrix to file: 0.16254 seconds
 
 Time to read files: 0.139237 seconds
-Time to mutiply matrices: 0.181317 seconds
+Time to multiply matrices: 0.181317 seconds
 Time to save result matrix to file: 0.159817 seconds
 
 Time to read files: 0.130989 seconds
-Time to mutiply matrices: 0.199035 seconds
+Time to multiply matrices: 0.199035 seconds
 Time to save result matrix to file: 0.162724 seconds
 
 Time to read files: 0.160107 seconds
-Time to mutiply matrices: 0.197521 seconds
+Time to multiply matrices: 0.197521 seconds
 Time to save result matrix to file: 0.161142 seconds
 
 Time to read files: 0.142152 seconds
-Time to mutiply matrices: 0.180055 seconds
+Time to multiply matrices: 0.180055 seconds
 Time to save result matrix to file: 0.159845 seconds
 
 Time to read files: 0.136205 seconds
-Time to mutiply matrices: 0.182331 seconds
+Time to multiply matrices: 0.182331 seconds
 Time to save result matrix to file: 0.161259 seconds
 
 Time to read files: 0.132358 seconds
-Time to mutiply matrices: 0.193436 seconds
+Time to multiply matrices: 0.193436 seconds
 Time to save result matrix to file: 0.15986 seconds
 
 Time to read files: 0.127371 seconds
-Time to mutiply matrices: 0.183127 seconds
+Time to multiply matrices: 0.183127 seconds
 Time to save result matrix to file: 0.158684 seconds
 
 Time to read files: 0.134767 seconds
-Time to mutiply matrices: 0.174612 seconds
+Time to multiply matrices: 0.174612 seconds
 Time to save result matrix to file: 0.161294 seconds
 
 Time to read files: 0.131723 seconds
-Time to mutiply matrices: 0.177897 seconds
+Time to multiply matrices: 0.177897 seconds
 Time to save result matrix to file: 0.159801 seconds
 
 
 -----------------27 Thread(s)-----------------
 Time to read files: 0.16155 seconds
-Time to mutiply matrices: 0.179129 seconds
+Time to multiply matrices: 0.179129 seconds
 Time to save result matrix to file: 0.158573 seconds
 
 Time to read files: 0.128472 seconds
-Time to mutiply matrices: 0.183238 seconds
+Time to multiply matrices: 0.183238 seconds
 Time to save result matrix to file: 0.159779 seconds
 
 Time to read files: 0.127 seconds
-Time to mutiply matrices: 0.183031 seconds
+Time to multiply matrices: 0.183031 seconds
 Time to save result matrix to file: 0.158666 seconds
 
 Time to read files: 0.162123 seconds
-Time to mutiply matrices: 0.177558 seconds
+Time to multiply matrices: 0.177558 seconds
 Time to save result matrix to file: 0.171582 seconds
 
 Time to read files: 0.135855 seconds
-Time to mutiply matrices: 0.1788 seconds
+Time to multiply matrices: 0.1788 seconds
 Time to save result matrix to file: 0.168164 seconds
 
 Time to read files: 0.166334 seconds
-Time to mutiply matrices: 0.190134 seconds
+Time to multiply matrices: 0.190134 seconds
 Time to save result matrix to file: 0.160834 seconds
 
 Time to read files: 0.13235 seconds
-Time to mutiply matrices: 0.179208 seconds
+Time to multiply matrices: 0.179208 seconds
 Time to save result matrix to file: 0.160239 seconds
 
 Time to read files: 0.132292 seconds
-Time to mutiply matrices: 0.187819 seconds
+Time to multiply matrices: 0.187819 seconds
 Time to save result matrix to file: 0.159963 seconds
 
 Time to read files: 0.130584 seconds
-Time to mutiply matrices: 0.214572 seconds
+Time to multiply matrices: 0.214572 seconds
 Time to save result matrix to file: 0.159577 seconds
 
 Time to read files: 0.132279 seconds
-Time to mutiply matrices: 0.18081 seconds
+Time to multiply matrices: 0.18081 seconds
 Time to save result matrix to file: 0.158625 seconds
 
 
 -----------------28 Thread(s)-----------------
 Time to read files: 0.132487 seconds
-Time to mutiply matrices: 0.183061 seconds
+Time to multiply matrices: 0.183061 seconds
 Time to save result matrix to file: 0.16008 seconds
 
 Time to read files: 0.132523 seconds
-Time to mutiply matrices: 0.174694 seconds
+Time to multiply matrices: 0.174694 seconds
 Time to save result matrix to file: 0.16239 seconds
 
 Time to read files: 0.131767 seconds
-Time to mutiply matrices: 0.181828 seconds
+Time to multiply matrices: 0.181828 seconds
 Time to save result matrix to file: 0.159826 seconds
 
 Time to read files: 0.140246 seconds
-Time to mutiply matrices: 0.182717 seconds
+Time to multiply matrices: 0.182717 seconds
 Time to save result matrix to file: 0.173539 seconds
 
 Time to read files: 0.131494 seconds
-Time to mutiply matrices: 0.187966 seconds
+Time to multiply matrices: 0.187966 seconds
 Time to save result matrix to file: 0.158851 seconds
 
 Time to read files: 0.127607 seconds
-Time to mutiply matrices: 0.176037 seconds
+Time to multiply matrices: 0.176037 seconds
 Time to save result matrix to file: 0.158684 seconds
 
 Time to read files: 0.135932 seconds
-Time to mutiply matrices: 0.175333 seconds
+Time to multiply matrices: 0.175333 seconds
 Time to save result matrix to file: 0.164117 seconds
 
 Time to read files: 0.130617 seconds
-Time to mutiply matrices: 0.189387 seconds
+Time to multiply matrices: 0.189387 seconds
 Time to save result matrix to file: 0.160963 seconds
 
 Time to read files: 0.134153 seconds
-Time to mutiply matrices: 0.206014 seconds
+Time to multiply matrices: 0.206014 seconds
 Time to save result matrix to file: 0.159613 seconds
 
 Time to read files: 0.164921 seconds
-Time to mutiply matrices: 0.169963 seconds
+Time to multiply matrices: 0.169963 seconds
 Time to save result matrix to file: 0.158102 seconds
 
 
 -----------------29 Thread(s)-----------------
 Time to read files: 0.131866 seconds
-Time to mutiply matrices: 0.195509 seconds
+Time to multiply matrices: 0.195509 seconds
 Time to save result matrix to file: 0.159355 seconds
 
 Time to read files: 0.135496 seconds
-Time to mutiply matrices: 0.176391 seconds
+Time to multiply matrices: 0.176391 seconds
 Time to save result matrix to file: 0.160621 seconds
 
 Time to read files: 0.132306 seconds
-Time to mutiply matrices: 0.178294 seconds
+Time to multiply matrices: 0.178294 seconds
 Time to save result matrix to file: 0.16098 seconds
 
 Time to read files: 0.133188 seconds
-Time to mutiply matrices: 0.184417 seconds
+Time to multiply matrices: 0.184417 seconds
 Time to save result matrix to file: 0.159969 seconds
 
 Time to read files: 0.128074 seconds
-Time to mutiply matrices: 0.176661 seconds
+Time to multiply matrices: 0.176661 seconds
 Time to save result matrix to file: 0.159713 seconds
 
 Time to read files: 0.1355 seconds
-Time to mutiply matrices: 0.188228 seconds
+Time to multiply matrices: 0.188228 seconds
 Time to save result matrix to file: 0.158651 seconds
 
 Time to read files: 0.132112 seconds
-Time to mutiply matrices: 0.190714 seconds
+Time to multiply matrices: 0.190714 seconds
 Time to save result matrix to file: 0.15985 seconds
 
 Time to read files: 0.131588 seconds
-Time to mutiply matrices: 0.175137 seconds
+Time to multiply matrices: 0.175137 seconds
 Time to save result matrix to file: 0.15824 seconds
 
 Time to read files: 0.141337 seconds
-Time to mutiply matrices: 0.182596 seconds
+Time to multiply matrices: 0.182596 seconds
 Time to save result matrix to file: 0.158844 seconds
 
 Time to read files: 0.136957 seconds
-Time to mutiply matrices: 0.185566 seconds
+Time to multiply matrices: 0.185566 seconds
 Time to save result matrix to file: 0.158685 seconds
 
 
 -----------------30 Thread(s)-----------------
 Time to read files: 0.138702 seconds
-Time to mutiply matrices: 0.208204 seconds
+Time to multiply matrices: 0.208204 seconds
 Time to save result matrix to file: 0.15929 seconds
 
 Time to read files: 0.135976 seconds
-Time to mutiply matrices: 0.192681 seconds
+Time to multiply matrices: 0.192681 seconds
 Time to save result matrix to file: 0.161212 seconds
 
 Time to read files: 0.139369 seconds
-Time to mutiply matrices: 0.216476 seconds
+Time to multiply matrices: 0.216476 seconds
 Time to save result matrix to file: 0.162055 seconds
 
 Time to read files: 0.12947 seconds
-Time to mutiply matrices: 0.181822 seconds
+Time to multiply matrices: 0.181822 seconds
 Time to save result matrix to file: 0.159245 seconds
 
 Time to read files: 0.135185 seconds
-Time to mutiply matrices: 0.197429 seconds
+Time to multiply matrices: 0.197429 seconds
 Time to save result matrix to file: 0.158068 seconds
 
 Time to read files: 0.127538 seconds
-Time to mutiply matrices: 0.175068 seconds
+Time to multiply matrices: 0.175068 seconds
 Time to save result matrix to file: 0.160777 seconds
 
 Time to read files: 0.127725 seconds
-Time to mutiply matrices: 0.174675 seconds
+Time to multiply matrices: 0.174675 seconds
 Time to save result matrix to file: 0.160047 seconds
 
 Time to read files: 0.130917 seconds
-Time to mutiply matrices: 0.173749 seconds
+Time to multiply matrices: 0.173749 seconds
 Time to save result matrix to file: 0.158224 seconds
 
 Time to read files: 0.132061 seconds
-Time to mutiply matrices: 0.173804 seconds
+Time to multiply matrices: 0.173804 seconds
 Time to save result matrix to file: 0.159234 seconds
 
 Time to read files: 0.171017 seconds
-Time to mutiply matrices: 0.189182 seconds
+Time to multiply matrices: 0.189182 seconds
 Time to save result matrix to file: 0.158524 seconds
 
 
 -----------------31 Thread(s)-----------------
 Time to read files: 0.127656 seconds
-Time to mutiply matrices: 0.203414 seconds
+Time to multiply matrices: 0.203414 seconds
 Time to save result matrix to file: 0.159092 seconds
 
 Time to read files: 0.131467 seconds
-Time to mutiply matrices: 0.188386 seconds
+Time to multiply matrices: 0.188386 seconds
 Time to save result matrix to file: 0.158044 seconds
 
 Time to read files: 0.128109 seconds
-Time to mutiply matrices: 0.188092 seconds
+Time to multiply matrices: 0.188092 seconds
 Time to save result matrix to file: 0.160461 seconds
 
 Time to read files: 0.168482 seconds
-Time to mutiply matrices: 0.188244 seconds
+Time to multiply matrices: 0.188244 seconds
 Time to save result matrix to file: 0.16917 seconds
 
 Time to read files: 0.131427 seconds
-Time to mutiply matrices: 0.17357 seconds
+Time to multiply matrices: 0.17357 seconds
 Time to save result matrix to file: 0.161084 seconds
 
 Time to read files: 0.136837 seconds
-Time to mutiply matrices: 0.182883 seconds
+Time to multiply matrices: 0.182883 seconds
 Time to save result matrix to file: 0.159666 seconds
 
 Time to read files: 0.13034 seconds
-Time to mutiply matrices: 0.183157 seconds
+Time to multiply matrices: 0.183157 seconds
 Time to save result matrix to file: 0.157867 seconds
 
 Time to read files: 0.143116 seconds
-Time to mutiply matrices: 0.180412 seconds
+Time to multiply matrices: 0.180412 seconds
 Time to save result matrix to file: 0.158453 seconds
 
 Time to read files: 0.133334 seconds
-Time to mutiply matrices: 0.192225 seconds
+Time to multiply matrices: 0.192225 seconds
 Time to save result matrix to file: 0.158762 seconds
 
 Time to read files: 0.136986 seconds
-Time to mutiply matrices: 0.184478 seconds
+Time to multiply matrices: 0.184478 seconds
 Time to save result matrix to file: 0.159209 seconds
 
 
 -----------------32 Thread(s)-----------------
 Time to read files: 0.161757 seconds
-Time to mutiply matrices: 0.174103 seconds
+Time to multiply matrices: 0.174103 seconds
 Time to save result matrix to file: 0.159733 seconds
 
 Time to read files: 0.131964 seconds
-Time to mutiply matrices: 0.180612 seconds
+Time to multiply matrices: 0.180612 seconds
 Time to save result matrix to file: 0.161737 seconds
 
 Time to read files: 0.132036 seconds
-Time to mutiply matrices: 0.175354 seconds
+Time to multiply matrices: 0.175354 seconds
 Time to save result matrix to file: 0.162195 seconds
 
 Time to read files: 0.139661 seconds
-Time to mutiply matrices: 0.175154 seconds
+Time to multiply matrices: 0.175154 seconds
 Time to save result matrix to file: 0.168932 seconds
 
 Time to read files: 0.129121 seconds
-Time to mutiply matrices: 0.180659 seconds
+Time to multiply matrices: 0.180659 seconds
 Time to save result matrix to file: 0.159164 seconds
 
 Time to read files: 0.131466 seconds
-Time to mutiply matrices: 0.172283 seconds
+Time to multiply matrices: 0.172283 seconds
 Time to save result matrix to file: 0.161339 seconds
 
 Time to read files: 0.135158 seconds
-Time to mutiply matrices: 0.185121 seconds
+Time to multiply matrices: 0.185121 seconds
 Time to save result matrix to file: 0.159049 seconds
 
 Time to read files: 0.138952 seconds
-Time to mutiply matrices: 0.185106 seconds
+Time to multiply matrices: 0.185106 seconds
 Time to save result matrix to file: 0.1577 seconds
 
 Time to read files: 0.131961 seconds
-Time to mutiply matrices: 0.179719 seconds
+Time to multiply matrices: 0.179719 seconds
 Time to save result matrix to file: 0.160148 seconds
 
 Time to read files: 0.131977 seconds
-Time to mutiply matrices: 0.186625 seconds
+Time to multiply matrices: 0.186625 seconds
 Time to save result matrix to file: 0.161773 seconds
 
 
 -----------------33 Thread(s)-----------------
 Time to read files: 0.133807 seconds
-Time to mutiply matrices: 0.18411 seconds
+Time to multiply matrices: 0.18411 seconds
 Time to save result matrix to file: 0.158621 seconds
 
 Time to read files: 0.127755 seconds
-Time to mutiply matrices: 0.17561 seconds
+Time to multiply matrices: 0.17561 seconds
 Time to save result matrix to file: 0.159612 seconds
 
 Time to read files: 0.140376 seconds
-Time to mutiply matrices: 0.173807 seconds
+Time to multiply matrices: 0.173807 seconds
 Time to save result matrix to file: 0.158497 seconds
 
 Time to read files: 0.128467 seconds
-Time to mutiply matrices: 0.189622 seconds
+Time to multiply matrices: 0.189622 seconds
 Time to save result matrix to file: 0.168022 seconds
 
 Time to read files: 0.131674 seconds
-Time to mutiply matrices: 0.180031 seconds
+Time to multiply matrices: 0.180031 seconds
 Time to save result matrix to file: 0.159131 seconds
 
 Time to read files: 0.135892 seconds
-Time to mutiply matrices: 0.186817 seconds
+Time to multiply matrices: 0.186817 seconds
 Time to save result matrix to file: 0.158124 seconds
 
 Time to read files: 0.13128 seconds
-Time to mutiply matrices: 0.182978 seconds
+Time to multiply matrices: 0.182978 seconds
 Time to save result matrix to file: 0.1626 seconds
 
 Time to read files: 0.13058 seconds
-Time to mutiply matrices: 0.199671 seconds
+Time to multiply matrices: 0.199671 seconds
 Time to save result matrix to file: 0.158132 seconds
 
 Time to read files: 0.127475 seconds
-Time to mutiply matrices: 0.194636 seconds
+Time to multiply matrices: 0.194636 seconds
 Time to save result matrix to file: 0.159207 seconds
 
 Time to read files: 0.13162 seconds
-Time to mutiply matrices: 0.193215 seconds
+Time to multiply matrices: 0.193215 seconds
 Time to save result matrix to file: 0.161916 seconds
 
 
 -----------------34 Thread(s)-----------------
 Time to read files: 0.131491 seconds
-Time to mutiply matrices: 0.181943 seconds
+Time to multiply matrices: 0.181943 seconds
 Time to save result matrix to file: 0.159714 seconds
 
 Time to read files: 0.128088 seconds
-Time to mutiply matrices: 0.185286 seconds
+Time to multiply matrices: 0.185286 seconds
 Time to save result matrix to file: 0.159166 seconds
 
 Time to read files: 0.132179 seconds
-Time to mutiply matrices: 0.181293 seconds
+Time to multiply matrices: 0.181293 seconds
 Time to save result matrix to file: 0.159166 seconds
 
 Time to read files: 0.140011 seconds
-Time to mutiply matrices: 0.199074 seconds
+Time to multiply matrices: 0.199074 seconds
 Time to save result matrix to file: 0.167103 seconds
 
 Time to read files: 0.131227 seconds
-Time to mutiply matrices: 0.176937 seconds
+Time to multiply matrices: 0.176937 seconds
 Time to save result matrix to file: 0.159285 seconds
 
 Time to read files: 0.161792 seconds
-Time to mutiply matrices: 0.172148 seconds
+Time to multiply matrices: 0.172148 seconds
 Time to save result matrix to file: 0.160455 seconds
 
 Time to read files: 0.13132 seconds
-Time to mutiply matrices: 0.184454 seconds
+Time to multiply matrices: 0.184454 seconds
 Time to save result matrix to file: 0.161253 seconds
 
 Time to read files: 0.134515 seconds
-Time to mutiply matrices: 0.177656 seconds
+Time to multiply matrices: 0.177656 seconds
 Time to save result matrix to file: 0.161969 seconds
 
 Time to read files: 0.130903 seconds
-Time to mutiply matrices: 0.193234 seconds
+Time to multiply matrices: 0.193234 seconds
 Time to save result matrix to file: 0.158602 seconds
 
 Time to read files: 0.130445 seconds
-Time to mutiply matrices: 0.176783 seconds
+Time to multiply matrices: 0.176783 seconds
 Time to save result matrix to file: 0.160599 seconds
 
 
 -----------------35 Thread(s)-----------------
 Time to read files: 0.137999 seconds
-Time to mutiply matrices: 0.17481 seconds
+Time to multiply matrices: 0.17481 seconds
 Time to save result matrix to file: 0.159024 seconds
 
 Time to read files: 0.157208 seconds
-Time to mutiply matrices: 0.175724 seconds
+Time to multiply matrices: 0.175724 seconds
 Time to save result matrix to file: 0.161359 seconds
 
 Time to read files: 0.131879 seconds
-Time to mutiply matrices: 0.203599 seconds
+Time to multiply matrices: 0.203599 seconds
 Time to save result matrix to file: 0.163505 seconds
 
 Time to read files: 0.13185 seconds
-Time to mutiply matrices: 0.177281 seconds
+Time to multiply matrices: 0.177281 seconds
 Time to save result matrix to file: 0.159262 seconds
 
 Time to read files: 0.130509 seconds
-Time to mutiply matrices: 0.180627 seconds
+Time to multiply matrices: 0.180627 seconds
 Time to save result matrix to file: 0.15889 seconds
 
 Time to read files: 0.135267 seconds
-Time to mutiply matrices: 0.184925 seconds
+Time to multiply matrices: 0.184925 seconds
 Time to save result matrix to file: 0.160523 seconds
 
 Time to read files: 0.134894 seconds
-Time to mutiply matrices: 0.193674 seconds
+Time to multiply matrices: 0.193674 seconds
 Time to save result matrix to file: 0.163456 seconds
 
 Time to read files: 0.130754 seconds
-Time to mutiply matrices: 0.184541 seconds
+Time to multiply matrices: 0.184541 seconds
 Time to save result matrix to file: 0.157591 seconds
 
 Time to read files: 0.140225 seconds
-Time to mutiply matrices: 0.184302 seconds
+Time to multiply matrices: 0.184302 seconds
 Time to save result matrix to file: 0.159494 seconds
 
 Time to read files: 0.135517 seconds
-Time to mutiply matrices: 0.173529 seconds
+Time to multiply matrices: 0.173529 seconds
 Time to save result matrix to file: 0.16341 seconds
 
 
 -----------------36 Thread(s)-----------------
 Time to read files: 0.131377 seconds
-Time to mutiply matrices: 0.176083 seconds
+Time to multiply matrices: 0.176083 seconds
 Time to save result matrix to file: 0.158821 seconds
 
 Time to read files: 0.170861 seconds
-Time to mutiply matrices: 0.189669 seconds
+Time to multiply matrices: 0.189669 seconds
 Time to save result matrix to file: 0.157635 seconds
 
 Time to read files: 0.131987 seconds
-Time to mutiply matrices: 0.1762 seconds
+Time to multiply matrices: 0.1762 seconds
 Time to save result matrix to file: 0.159468 seconds
 
 Time to read files: 0.131884 seconds
-Time to mutiply matrices: 0.179795 seconds
+Time to multiply matrices: 0.179795 seconds
 Time to save result matrix to file: 0.169204 seconds
 
 Time to read files: 0.132091 seconds
-Time to mutiply matrices: 0.178765 seconds
+Time to multiply matrices: 0.178765 seconds
 Time to save result matrix to file: 0.159481 seconds
 
 Time to read files: 0.131145 seconds
-Time to mutiply matrices: 0.181649 seconds
+Time to multiply matrices: 0.181649 seconds
 Time to save result matrix to file: 0.158474 seconds
 
 Time to read files: 0.143459 seconds
-Time to mutiply matrices: 0.178655 seconds
+Time to multiply matrices: 0.178655 seconds
 Time to save result matrix to file: 0.161757 seconds
 
 Time to read files: 0.132884 seconds
-Time to mutiply matrices: 0.179168 seconds
+Time to multiply matrices: 0.179168 seconds
 Time to save result matrix to file: 0.166177 seconds
 
 Time to read files: 0.137404 seconds
-Time to mutiply matrices: 0.178752 seconds
+Time to multiply matrices: 0.178752 seconds
 Time to save result matrix to file: 0.158332 seconds
 
 Time to read files: 0.132028 seconds
-Time to mutiply matrices: 0.199008 seconds
+Time to multiply matrices: 0.199008 seconds
 Time to save result matrix to file: 0.15926 seconds
 
 
 -----------------37 Thread(s)-----------------
 Time to read files: 0.131377 seconds
-Time to mutiply matrices: 0.176993 seconds
+Time to multiply matrices: 0.176993 seconds
 Time to save result matrix to file: 0.162108 seconds
 
 Time to read files: 0.135809 seconds
-Time to mutiply matrices: 0.179492 seconds
+Time to multiply matrices: 0.179492 seconds
 Time to save result matrix to file: 0.159521 seconds
 
 Time to read files: 0.136207 seconds
-Time to mutiply matrices: 0.182887 seconds
+Time to multiply matrices: 0.182887 seconds
 Time to save result matrix to file: 0.161309 seconds
 
 Time to read files: 0.13188 seconds
-Time to mutiply matrices: 0.195577 seconds
+Time to multiply matrices: 0.195577 seconds
 Time to save result matrix to file: 0.16307 seconds
 
 Time to read files: 0.131055 seconds
-Time to mutiply matrices: 0.202264 seconds
+Time to multiply matrices: 0.202264 seconds
 Time to save result matrix to file: 0.160848 seconds
 
 Time to read files: 0.136166 seconds
-Time to mutiply matrices: 0.180811 seconds
+Time to multiply matrices: 0.180811 seconds
 Time to save result matrix to file: 0.158705 seconds
 
 Time to read files: 0.142 seconds
-Time to mutiply matrices: 0.180272 seconds
+Time to multiply matrices: 0.180272 seconds
 Time to save result matrix to file: 0.161719 seconds
 
 Time to read files: 0.128171 seconds
-Time to mutiply matrices: 0.178096 seconds
+Time to multiply matrices: 0.178096 seconds
 Time to save result matrix to file: 0.162354 seconds
 
 Time to read files: 0.136711 seconds
-Time to mutiply matrices: 0.185038 seconds
+Time to multiply matrices: 0.185038 seconds
 Time to save result matrix to file: 0.159273 seconds
 
 Time to read files: 0.133335 seconds
-Time to mutiply matrices: 0.17482 seconds
+Time to multiply matrices: 0.17482 seconds
 Time to save result matrix to file: 0.158945 seconds
 
 
 -----------------38 Thread(s)-----------------
 Time to read files: 0.132354 seconds
-Time to mutiply matrices: 0.175407 seconds
+Time to multiply matrices: 0.175407 seconds
 Time to save result matrix to file: 0.159489 seconds
 
 Time to read files: 0.132441 seconds
-Time to mutiply matrices: 0.202001 seconds
+Time to multiply matrices: 0.202001 seconds
 Time to save result matrix to file: 0.160639 seconds
 
 Time to read files: 0.130257 seconds
-Time to mutiply matrices: 0.174141 seconds
+Time to multiply matrices: 0.174141 seconds
 Time to save result matrix to file: 0.159521 seconds
 
 Time to read files: 0.13547 seconds
-Time to mutiply matrices: 0.178757 seconds
+Time to multiply matrices: 0.178757 seconds
 Time to save result matrix to file: 0.170333 seconds
 
 Time to read files: 0.146189 seconds
-Time to mutiply matrices: 0.181268 seconds
+Time to multiply matrices: 0.181268 seconds
 Time to save result matrix to file: 0.159578 seconds
 
 Time to read files: 0.13681 seconds
-Time to mutiply matrices: 0.2192 seconds
+Time to multiply matrices: 0.2192 seconds
 Time to save result matrix to file: 0.159399 seconds
 
 Time to read files: 0.134931 seconds
-Time to mutiply matrices: 0.174834 seconds
+Time to multiply matrices: 0.174834 seconds
 Time to save result matrix to file: 0.16128 seconds
 
 Time to read files: 0.130454 seconds
-Time to mutiply matrices: 0.173849 seconds
+Time to multiply matrices: 0.173849 seconds
 Time to save result matrix to file: 0.158521 seconds
 
 Time to read files: 0.132335 seconds
-Time to mutiply matrices: 0.172938 seconds
+Time to multiply matrices: 0.172938 seconds
 Time to save result matrix to file: 0.163464 seconds
 
 Time to read files: 0.135123 seconds
-Time to mutiply matrices: 0.183686 seconds
+Time to multiply matrices: 0.183686 seconds
 Time to save result matrix to file: 0.159879 seconds
 
 
 -----------------39 Thread(s)-----------------
 Time to read files: 0.127292 seconds
-Time to mutiply matrices: 0.175141 seconds
+Time to multiply matrices: 0.175141 seconds
 Time to save result matrix to file: 0.158814 seconds
 
 Time to read files: 0.141627 seconds
-Time to mutiply matrices: 0.174792 seconds
+Time to multiply matrices: 0.174792 seconds
 Time to save result matrix to file: 0.163827 seconds
 
 Time to read files: 0.140693 seconds
-Time to mutiply matrices: 0.1746 seconds
+Time to multiply matrices: 0.1746 seconds
 Time to save result matrix to file: 0.159682 seconds
 
 Time to read files: 0.131584 seconds
-Time to mutiply matrices: 0.175977 seconds
+Time to multiply matrices: 0.175977 seconds
 Time to save result matrix to file: 0.162251 seconds
 
 Time to read files: 0.132209 seconds
-Time to mutiply matrices: 0.189843 seconds
+Time to multiply matrices: 0.189843 seconds
 Time to save result matrix to file: 0.162184 seconds
 
 Time to read files: 0.131108 seconds
-Time to mutiply matrices: 0.176991 seconds
+Time to multiply matrices: 0.176991 seconds
 Time to save result matrix to file: 0.160774 seconds
 
 Time to read files: 0.128045 seconds
-Time to mutiply matrices: 0.19341 seconds
+Time to multiply matrices: 0.19341 seconds
 Time to save result matrix to file: 0.159295 seconds
 
 Time to read files: 0.13759 seconds
-Time to mutiply matrices: 0.191689 seconds
+Time to multiply matrices: 0.191689 seconds
 Time to save result matrix to file: 0.159103 seconds
 
 Time to read files: 0.130589 seconds
-Time to mutiply matrices: 0.178487 seconds
+Time to multiply matrices: 0.178487 seconds
 Time to save result matrix to file: 0.157979 seconds
 
 Time to read files: 0.131111 seconds
-Time to mutiply matrices: 0.179194 seconds
+Time to multiply matrices: 0.179194 seconds
 Time to save result matrix to file: 0.158893 seconds
 
 
 -----------------40 Thread(s)-----------------
 Time to read files: 0.128275 seconds
-Time to mutiply matrices: 0.183264 seconds
+Time to multiply matrices: 0.183264 seconds
 Time to save result matrix to file: 0.16043 seconds
 
 Time to read files: 0.13622 seconds
-Time to mutiply matrices: 0.193437 seconds
+Time to multiply matrices: 0.193437 seconds
 Time to save result matrix to file: 0.15869 seconds
 
 Time to read files: 0.127571 seconds
-Time to mutiply matrices: 0.175997 seconds
+Time to multiply matrices: 0.175997 seconds
 Time to save result matrix to file: 0.158908 seconds
 
 Time to read files: 0.127953 seconds
-Time to mutiply matrices: 0.17942 seconds
+Time to multiply matrices: 0.17942 seconds
 Time to save result matrix to file: 0.168959 seconds
 
 Time to read files: 0.130953 seconds
-Time to mutiply matrices: 0.175293 seconds
+Time to multiply matrices: 0.175293 seconds
 Time to save result matrix to file: 0.158576 seconds
 
 Time to read files: 0.131937 seconds
-Time to mutiply matrices: 0.176445 seconds
+Time to multiply matrices: 0.176445 seconds
 Time to save result matrix to file: 0.162173 seconds
 
 Time to read files: 0.130226 seconds
-Time to mutiply matrices: 0.187239 seconds
+Time to multiply matrices: 0.187239 seconds
 Time to save result matrix to file: 0.157644 seconds
 
 Time to read files: 0.135518 seconds
-Time to mutiply matrices: 0.18715 seconds
+Time to multiply matrices: 0.18715 seconds
 Time to save result matrix to file: 0.159679 seconds
 
 Time to read files: 0.139617 seconds
-Time to mutiply matrices: 0.180727 seconds
+Time to multiply matrices: 0.180727 seconds
 Time to save result matrix to file: 0.160605 seconds
 
 Time to read files: 0.127237 seconds
-Time to mutiply matrices: 0.181995 seconds
+Time to multiply matrices: 0.181995 seconds
 Time to save result matrix to file: 0.159221 seconds
 
 
 -----------------41 Thread(s)-----------------
 Time to read files: 0.130968 seconds
-Time to mutiply matrices: 0.177692 seconds
+Time to multiply matrices: 0.177692 seconds
 Time to save result matrix to file: 0.16081 seconds
 
 Time to read files: 0.130434 seconds
-Time to mutiply matrices: 0.17281 seconds
+Time to multiply matrices: 0.17281 seconds
 Time to save result matrix to file: 0.158316 seconds
 
 Time to read files: 0.132276 seconds
-Time to mutiply matrices: 0.176154 seconds
+Time to multiply matrices: 0.176154 seconds
 Time to save result matrix to file: 0.161516 seconds
 
 Time to read files: 0.130807 seconds
-Time to mutiply matrices: 0.177507 seconds
+Time to multiply matrices: 0.177507 seconds
 Time to save result matrix to file: 0.166611 seconds
 
 Time to read files: 0.134482 seconds
-Time to mutiply matrices: 0.184099 seconds
+Time to multiply matrices: 0.184099 seconds
 Time to save result matrix to file: 0.160228 seconds
 
 Time to read files: 0.159553 seconds
-Time to mutiply matrices: 0.174407 seconds
+Time to multiply matrices: 0.174407 seconds
 Time to save result matrix to file: 0.161495 seconds
 
 Time to read files: 0.138711 seconds
-Time to mutiply matrices: 0.191457 seconds
+Time to multiply matrices: 0.191457 seconds
 Time to save result matrix to file: 0.157918 seconds
 
 Time to read files: 0.13069 seconds
-Time to mutiply matrices: 0.19291 seconds
+Time to multiply matrices: 0.19291 seconds
 Time to save result matrix to file: 0.158794 seconds
 
 Time to read files: 0.128082 seconds
-Time to mutiply matrices: 0.217131 seconds
+Time to multiply matrices: 0.217131 seconds
 Time to save result matrix to file: 0.15907 seconds
 
 Time to read files: 0.134067 seconds
-Time to mutiply matrices: 0.182978 seconds
+Time to multiply matrices: 0.182978 seconds
 Time to save result matrix to file: 0.158442 seconds
 
 
 -----------------42 Thread(s)-----------------
 Time to read files: 0.131328 seconds
-Time to mutiply matrices: 0.17822 seconds
+Time to multiply matrices: 0.17822 seconds
 Time to save result matrix to file: 0.160445 seconds
 
 Time to read files: 0.130832 seconds
-Time to mutiply matrices: 0.188384 seconds
+Time to multiply matrices: 0.188384 seconds
 Time to save result matrix to file: 0.15865 seconds
 
 Time to read files: 0.127568 seconds
-Time to mutiply matrices: 0.179931 seconds
+Time to multiply matrices: 0.179931 seconds
 Time to save result matrix to file: 0.158797 seconds
 
 Time to read files: 0.127357 seconds
-Time to mutiply matrices: 0.192365 seconds
+Time to multiply matrices: 0.192365 seconds
 Time to save result matrix to file: 0.167562 seconds
 
 Time to read files: 0.131242 seconds
-Time to mutiply matrices: 0.172057 seconds
+Time to multiply matrices: 0.172057 seconds
 Time to save result matrix to file: 0.158232 seconds
 
 Time to read files: 0.131229 seconds
-Time to mutiply matrices: 0.175696 seconds
+Time to multiply matrices: 0.175696 seconds
 Time to save result matrix to file: 0.159683 seconds
 
 Time to read files: 0.131193 seconds
-Time to mutiply matrices: 0.178293 seconds
+Time to multiply matrices: 0.178293 seconds
 Time to save result matrix to file: 0.160523 seconds
 
 Time to read files: 0.1308 seconds
-Time to mutiply matrices: 0.174114 seconds
+Time to multiply matrices: 0.174114 seconds
 Time to save result matrix to file: 0.162149 seconds
 
 Time to read files: 0.161839 seconds
-Time to mutiply matrices: 0.178072 seconds
+Time to multiply matrices: 0.178072 seconds
 Time to save result matrix to file: 0.157626 seconds
 
 Time to read files: 0.136108 seconds
-Time to mutiply matrices: 0.178375 seconds
+Time to multiply matrices: 0.178375 seconds
 Time to save result matrix to file: 0.157862 seconds
 
 
 -----------------43 Thread(s)-----------------
 Time to read files: 0.131833 seconds
-Time to mutiply matrices: 0.196181 seconds
+Time to multiply matrices: 0.196181 seconds
 Time to save result matrix to file: 0.159362 seconds
 
 Time to read files: 0.14187 seconds
-Time to mutiply matrices: 0.180882 seconds
+Time to multiply matrices: 0.180882 seconds
 Time to save result matrix to file: 0.161439 seconds
 
 Time to read files: 0.1323 seconds
-Time to mutiply matrices: 0.177859 seconds
+Time to multiply matrices: 0.177859 seconds
 Time to save result matrix to file: 0.161725 seconds
 
 Time to read files: 0.139551 seconds
-Time to mutiply matrices: 0.174342 seconds
+Time to multiply matrices: 0.174342 seconds
 Time to save result matrix to file: 0.161318 seconds
 
 Time to read files: 0.137257 seconds
-Time to mutiply matrices: 0.183402 seconds
+Time to multiply matrices: 0.183402 seconds
 Time to save result matrix to file: 0.161123 seconds
 
 Time to read files: 0.13234 seconds
-Time to mutiply matrices: 0.194877 seconds
+Time to multiply matrices: 0.194877 seconds
 Time to save result matrix to file: 0.162769 seconds
 
 Time to read files: 0.135072 seconds
-Time to mutiply matrices: 0.178368 seconds
+Time to multiply matrices: 0.178368 seconds
 Time to save result matrix to file: 0.159278 seconds
 
 Time to read files: 0.140642 seconds
-Time to mutiply matrices: 0.179574 seconds
+Time to multiply matrices: 0.179574 seconds
 Time to save result matrix to file: 0.159065 seconds
 
 Time to read files: 0.131308 seconds
-Time to mutiply matrices: 0.17751 seconds
+Time to multiply matrices: 0.17751 seconds
 Time to save result matrix to file: 0.159097 seconds
 
 Time to read files: 0.131944 seconds
-Time to mutiply matrices: 0.175026 seconds
+Time to multiply matrices: 0.175026 seconds
 Time to save result matrix to file: 0.161843 seconds
 
 
 -----------------44 Thread(s)-----------------
 Time to read files: 0.134119 seconds
-Time to mutiply matrices: 0.176524 seconds
+Time to multiply matrices: 0.176524 seconds
 Time to save result matrix to file: 0.15903 seconds
 
 Time to read files: 0.131373 seconds
-Time to mutiply matrices: 0.195481 seconds
+Time to multiply matrices: 0.195481 seconds
 Time to save result matrix to file: 0.158861 seconds
 
 Time to read files: 0.131454 seconds
-Time to mutiply matrices: 0.175847 seconds
+Time to multiply matrices: 0.175847 seconds
 Time to save result matrix to file: 0.159571 seconds
 
 Time to read files: 0.132492 seconds
-Time to mutiply matrices: 0.175857 seconds
+Time to multiply matrices: 0.175857 seconds
 Time to save result matrix to file: 0.169944 seconds
 
 Time to read files: 0.131243 seconds
-Time to mutiply matrices: 0.174059 seconds
+Time to multiply matrices: 0.174059 seconds
 Time to save result matrix to file: 0.158775 seconds
 
 Time to read files: 0.134219 seconds
-Time to mutiply matrices: 0.177865 seconds
+Time to multiply matrices: 0.177865 seconds
 Time to save result matrix to file: 0.159622 seconds
 
 Time to read files: 0.131993 seconds
-Time to mutiply matrices: 0.18934 seconds
+Time to multiply matrices: 0.18934 seconds
 Time to save result matrix to file: 0.161172 seconds
 
 Time to read files: 0.132028 seconds
-Time to mutiply matrices: 0.1812 seconds
+Time to multiply matrices: 0.1812 seconds
 Time to save result matrix to file: 0.160604 seconds
 
 Time to read files: 0.128147 seconds
-Time to mutiply matrices: 0.175477 seconds
+Time to multiply matrices: 0.175477 seconds
 Time to save result matrix to file: 0.159605 seconds
 
 Time to read files: 0.132055 seconds
-Time to mutiply matrices: 0.184863 seconds
+Time to multiply matrices: 0.184863 seconds
 Time to save result matrix to file: 0.159285 seconds
 
 
 -----------------45 Thread(s)-----------------
 Time to read files: 0.135526 seconds
-Time to mutiply matrices: 0.174117 seconds
+Time to multiply matrices: 0.174117 seconds
 Time to save result matrix to file: 0.166236 seconds
 
 Time to read files: 0.127502 seconds
-Time to mutiply matrices: 0.177384 seconds
+Time to multiply matrices: 0.177384 seconds
 Time to save result matrix to file: 0.160321 seconds
 
 Time to read files: 0.133122 seconds
-Time to mutiply matrices: 0.178359 seconds
+Time to multiply matrices: 0.178359 seconds
 Time to save result matrix to file: 0.163263 seconds
 
 Time to read files: 0.131197 seconds
-Time to mutiply matrices: 0.178291 seconds
+Time to multiply matrices: 0.178291 seconds
 Time to save result matrix to file: 0.167559 seconds
 
 Time to read files: 0.138356 seconds
-Time to mutiply matrices: 0.174951 seconds
+Time to multiply matrices: 0.174951 seconds
 Time to save result matrix to file: 0.159063 seconds
 
 Time to read files: 0.127659 seconds
-Time to mutiply matrices: 0.19351 seconds
+Time to multiply matrices: 0.19351 seconds
 Time to save result matrix to file: 0.158587 seconds
 
 Time to read files: 0.131351 seconds
-Time to mutiply matrices: 0.17381 seconds
+Time to multiply matrices: 0.17381 seconds
 Time to save result matrix to file: 0.162885 seconds
 
 Time to read files: 0.131258 seconds
-Time to mutiply matrices: 0.176333 seconds
+Time to multiply matrices: 0.176333 seconds
 Time to save result matrix to file: 0.165342 seconds
 
 Time to read files: 0.132714 seconds
-Time to mutiply matrices: 0.180953 seconds
+Time to multiply matrices: 0.180953 seconds
 Time to save result matrix to file: 0.159401 seconds
 
 Time to read files: 0.127685 seconds
-Time to mutiply matrices: 0.175557 seconds
+Time to multiply matrices: 0.175557 seconds
 Time to save result matrix to file: 0.16063 seconds
 
 
 -----------------46 Thread(s)-----------------
 Time to read files: 0.132356 seconds
-Time to mutiply matrices: 0.17743 seconds
+Time to multiply matrices: 0.17743 seconds
 Time to save result matrix to file: 0.162932 seconds
 
 Time to read files: 0.130889 seconds
-Time to mutiply matrices: 0.178299 seconds
+Time to multiply matrices: 0.178299 seconds
 Time to save result matrix to file: 0.163001 seconds
 
 Time to read files: 0.132088 seconds
-Time to mutiply matrices: 0.190124 seconds
+Time to multiply matrices: 0.190124 seconds
 Time to save result matrix to file: 0.166638 seconds
 
 Time to read files: 0.135998 seconds
-Time to mutiply matrices: 0.173226 seconds
+Time to multiply matrices: 0.173226 seconds
 Time to save result matrix to file: 0.160204 seconds
 
 Time to read files: 0.131147 seconds
-Time to mutiply matrices: 0.176614 seconds
+Time to multiply matrices: 0.176614 seconds
 Time to save result matrix to file: 0.158908 seconds
 
 Time to read files: 0.127721 seconds
-Time to mutiply matrices: 0.176834 seconds
+Time to multiply matrices: 0.176834 seconds
 Time to save result matrix to file: 0.158349 seconds
 
 Time to read files: 0.132218 seconds
-Time to mutiply matrices: 0.178093 seconds
+Time to multiply matrices: 0.178093 seconds
 Time to save result matrix to file: 0.163348 seconds
 
 Time to read files: 0.131036 seconds
-Time to mutiply matrices: 0.17818 seconds
+Time to multiply matrices: 0.17818 seconds
 Time to save result matrix to file: 0.165488 seconds
 
 Time to read files: 0.133811 seconds
-Time to mutiply matrices: 0.177714 seconds
+Time to multiply matrices: 0.177714 seconds
 Time to save result matrix to file: 0.166746 seconds
 
 Time to read files: 0.131056 seconds
-Time to mutiply matrices: 0.1747 seconds
+Time to multiply matrices: 0.1747 seconds
 Time to save result matrix to file: 0.162847 seconds
 
 
 -----------------47 Thread(s)-----------------
 Time to read files: 0.137753 seconds
-Time to mutiply matrices: 0.173566 seconds
+Time to multiply matrices: 0.173566 seconds
 Time to save result matrix to file: 0.15967 seconds
 
 Time to read files: 0.131449 seconds
-Time to mutiply matrices: 0.175558 seconds
+Time to multiply matrices: 0.175558 seconds
 Time to save result matrix to file: 0.158867 seconds
 
 Time to read files: 0.1308 seconds
-Time to mutiply matrices: 0.179133 seconds
+Time to multiply matrices: 0.179133 seconds
 Time to save result matrix to file: 0.158923 seconds
 
 Time to read files: 0.137813 seconds
-Time to mutiply matrices: 0.174017 seconds
+Time to multiply matrices: 0.174017 seconds
 Time to save result matrix to file: 0.168265 seconds
 
 Time to read files: 0.13209 seconds
-Time to mutiply matrices: 0.184677 seconds
+Time to multiply matrices: 0.184677 seconds
 Time to save result matrix to file: 0.161869 seconds
 
 Time to read files: 0.140973 seconds
-Time to mutiply matrices: 0.19859 seconds
+Time to multiply matrices: 0.19859 seconds
 Time to save result matrix to file: 0.157588 seconds
 
 Time to read files: 0.139626 seconds
-Time to mutiply matrices: 0.176904 seconds
+Time to multiply matrices: 0.176904 seconds
 Time to save result matrix to file: 0.158544 seconds
 
 Time to read files: 0.132309 seconds
-Time to mutiply matrices: 0.176204 seconds
+Time to multiply matrices: 0.176204 seconds
 Time to save result matrix to file: 0.162929 seconds
 
 Time to read files: 0.131545 seconds
-Time to mutiply matrices: 0.173844 seconds
+Time to multiply matrices: 0.173844 seconds
 Time to save result matrix to file: 0.158766 seconds
 
 Time to read files: 0.131943 seconds
-Time to mutiply matrices: 0.175536 seconds
+Time to multiply matrices: 0.175536 seconds
 Time to save result matrix to file: 0.161658 seconds
 
 
 -----------------48 Thread(s)-----------------
 Time to read files: 0.137022 seconds
-Time to mutiply matrices: 0.180082 seconds
+Time to multiply matrices: 0.180082 seconds
 Time to save result matrix to file: 0.159862 seconds
 
 Time to read files: 0.131265 seconds
-Time to mutiply matrices: 0.173643 seconds
+Time to multiply matrices: 0.173643 seconds
 Time to save result matrix to file: 0.158094 seconds
 
 Time to read files: 0.128171 seconds
-Time to mutiply matrices: 0.178666 seconds
+Time to multiply matrices: 0.178666 seconds
 Time to save result matrix to file: 0.15931 seconds
 
 Time to read files: 0.134847 seconds
-Time to mutiply matrices: 0.176786 seconds
+Time to multiply matrices: 0.176786 seconds
 Time to save result matrix to file: 0.169681 seconds
 
 Time to read files: 0.135566 seconds
-Time to mutiply matrices: 0.172864 seconds
+Time to multiply matrices: 0.172864 seconds
 Time to save result matrix to file: 0.1584 seconds
 
 Time to read files: 0.131009 seconds
-Time to mutiply matrices: 0.172597 seconds
+Time to multiply matrices: 0.172597 seconds
 Time to save result matrix to file: 0.161898 seconds
 
 Time to read files: 0.127632 seconds
-Time to mutiply matrices: 0.181035 seconds
+Time to multiply matrices: 0.181035 seconds
 Time to save result matrix to file: 0.159419 seconds
 
 Time to read files: 0.130923 seconds
-Time to mutiply matrices: 0.181005 seconds
+Time to multiply matrices: 0.181005 seconds
 Time to save result matrix to file: 0.160714 seconds
 
 Time to read files: 0.12717 seconds
-Time to mutiply matrices: 0.175195 seconds
+Time to multiply matrices: 0.175195 seconds
 Time to save result matrix to file: 0.158387 seconds
 
 Time to read files: 0.131254 seconds
-Time to mutiply matrices: 0.176986 seconds
+Time to multiply matrices: 0.176986 seconds
 Time to save result matrix to file: 0.158339 seconds
 
 
 -----------------49 Thread(s)-----------------
 Time to read files: 0.139518 seconds
-Time to mutiply matrices: 0.178304 seconds
+Time to multiply matrices: 0.178304 seconds
 Time to save result matrix to file: 0.158978 seconds
 
 Time to read files: 0.131 seconds
-Time to mutiply matrices: 0.176428 seconds
+Time to multiply matrices: 0.176428 seconds
 Time to save result matrix to file: 0.160877 seconds
 
 Time to read files: 0.14904 seconds
-Time to mutiply matrices: 0.186279 seconds
+Time to multiply matrices: 0.186279 seconds
 Time to save result matrix to file: 0.1644 seconds
 
 Time to read files: 0.127047 seconds
-Time to mutiply matrices: 0.17723 seconds
+Time to multiply matrices: 0.17723 seconds
 Time to save result matrix to file: 0.174877 seconds
 
 Time to read files: 0.130569 seconds
-Time to mutiply matrices: 0.174813 seconds
+Time to multiply matrices: 0.174813 seconds
 Time to save result matrix to file: 0.158199 seconds
 
 Time to read files: 0.130535 seconds
-Time to mutiply matrices: 0.176884 seconds
+Time to multiply matrices: 0.176884 seconds
 Time to save result matrix to file: 0.159247 seconds
 
 Time to read files: 0.128266 seconds
-Time to mutiply matrices: 0.176436 seconds
+Time to multiply matrices: 0.176436 seconds
 Time to save result matrix to file: 0.160235 seconds
 
 Time to read files: 0.133694 seconds
-Time to mutiply matrices: 0.181925 seconds
+Time to multiply matrices: 0.181925 seconds
 Time to save result matrix to file: 0.162931 seconds
 
 Time to read files: 0.131245 seconds
-Time to mutiply matrices: 0.179367 seconds
+Time to multiply matrices: 0.179367 seconds
 Time to save result matrix to file: 0.161961 seconds
 
 Time to read files: 0.130826 seconds
-Time to mutiply matrices: 0.175356 seconds
+Time to multiply matrices: 0.175356 seconds
 Time to save result matrix to file: 0.161931 seconds
 
 
 -----------------50 Thread(s)-----------------
 Time to read files: 0.131951 seconds
-Time to mutiply matrices: 0.179655 seconds
+Time to multiply matrices: 0.179655 seconds
 Time to save result matrix to file: 0.159075 seconds
 
 Time to read files: 0.13164 seconds
-Time to mutiply matrices: 0.1961 seconds
+Time to multiply matrices: 0.1961 seconds
 Time to save result matrix to file: 0.161602 seconds
 
 Time to read files: 0.130261 seconds
-Time to mutiply matrices: 0.183626 seconds
+Time to multiply matrices: 0.183626 seconds
 Time to save result matrix to file: 0.159472 seconds
 
 Time to read files: 0.127566 seconds
-Time to mutiply matrices: 0.178545 seconds
+Time to multiply matrices: 0.178545 seconds
 Time to save result matrix to file: 0.159721 seconds
 
 Time to read files: 0.17357 seconds
-Time to mutiply matrices: 0.17193 seconds
+Time to multiply matrices: 0.17193 seconds
 Time to save result matrix to file: 0.160847 seconds
 
 Time to read files: 0.131823 seconds
-Time to mutiply matrices: 0.180272 seconds
+Time to multiply matrices: 0.180272 seconds
 Time to save result matrix to file: 0.162913 seconds
 
 Time to read files: 0.131941 seconds
-Time to mutiply matrices: 0.180243 seconds
+Time to multiply matrices: 0.180243 seconds
 Time to save result matrix to file: 0.159447 seconds
 
 Time to read files: 0.127118 seconds
-Time to mutiply matrices: 0.176119 seconds
+Time to multiply matrices: 0.176119 seconds
 Time to save result matrix to file: 0.158467 seconds
 
 Time to read files: 0.128 seconds
-Time to mutiply matrices: 0.185324 seconds
+Time to multiply matrices: 0.185324 seconds
 Time to save result matrix to file: 0.159462 seconds
 
 Time to read files: 0.131797 seconds
-Time to mutiply matrices: 0.187939 seconds
+Time to multiply matrices: 0.187939 seconds
 Time to save result matrix to file: 0.162831 seconds
 
 
 -----------------51 Thread(s)-----------------
 Time to read files: 0.130572 seconds
-Time to mutiply matrices: 0.175025 seconds
+Time to multiply matrices: 0.175025 seconds
 Time to save result matrix to file: 0.159515 seconds
 
 Time to read files: 0.130992 seconds
-Time to mutiply matrices: 0.175551 seconds
+Time to multiply matrices: 0.175551 seconds
 Time to save result matrix to file: 0.159036 seconds
 
 Time to read files: 0.131406 seconds
-Time to mutiply matrices: 0.185125 seconds
+Time to multiply matrices: 0.185125 seconds
 Time to save result matrix to file: 0.165445 seconds
 
 Time to read files: 0.134838 seconds
-Time to mutiply matrices: 0.17884 seconds
+Time to multiply matrices: 0.17884 seconds
 Time to save result matrix to file: 0.161474 seconds
 
 Time to read files: 0.131875 seconds
-Time to mutiply matrices: 0.187434 seconds
+Time to multiply matrices: 0.187434 seconds
 Time to save result matrix to file: 0.162975 seconds
 
 Time to read files: 0.131932 seconds
-Time to mutiply matrices: 0.174379 seconds
+Time to multiply matrices: 0.174379 seconds
 Time to save result matrix to file: 0.166639 seconds
 
 Time to read files: 0.127425 seconds
-Time to mutiply matrices: 0.176162 seconds
+Time to multiply matrices: 0.176162 seconds
 Time to save result matrix to file: 0.159029 seconds
 
 Time to read files: 0.128035 seconds
-Time to mutiply matrices: 0.178805 seconds
+Time to multiply matrices: 0.178805 seconds
 Time to save result matrix to file: 0.160889 seconds
 
 Time to read files: 0.131707 seconds
-Time to mutiply matrices: 0.178527 seconds
+Time to multiply matrices: 0.178527 seconds
 Time to save result matrix to file: 0.163082 seconds
 
 Time to read files: 0.138769 seconds
-Time to mutiply matrices: 0.17878 seconds
+Time to multiply matrices: 0.17878 seconds
 Time to save result matrix to file: 0.160701 seconds
 
 
 -----------------52 Thread(s)-----------------
 Time to read files: 0.131042 seconds
-Time to mutiply matrices: 0.17699 seconds
+Time to multiply matrices: 0.17699 seconds
 Time to save result matrix to file: 0.159489 seconds
 
 Time to read files: 0.130518 seconds
-Time to mutiply matrices: 0.207425 seconds
+Time to multiply matrices: 0.207425 seconds
 Time to save result matrix to file: 0.159419 seconds
 
 Time to read files: 0.132243 seconds
-Time to mutiply matrices: 0.177726 seconds
+Time to multiply matrices: 0.177726 seconds
 Time to save result matrix to file: 0.159447 seconds
 
 Time to read files: 0.157962 seconds
-Time to mutiply matrices: 0.180136 seconds
+Time to multiply matrices: 0.180136 seconds
 Time to save result matrix to file: 0.159313 seconds
 
 Time to read files: 0.134332 seconds
-Time to mutiply matrices: 0.178374 seconds
+Time to multiply matrices: 0.178374 seconds
 Time to save result matrix to file: 0.159211 seconds
 
 Time to read files: 0.131249 seconds
-Time to mutiply matrices: 0.174122 seconds
+Time to multiply matrices: 0.174122 seconds
 Time to save result matrix to file: 0.158658 seconds
 
 Time to read files: 0.131237 seconds
-Time to mutiply matrices: 0.178449 seconds
+Time to multiply matrices: 0.178449 seconds
 Time to save result matrix to file: 0.162424 seconds
 
 Time to read files: 0.135065 seconds
-Time to mutiply matrices: 0.175543 seconds
+Time to multiply matrices: 0.175543 seconds
 Time to save result matrix to file: 0.167725 seconds
 
 Time to read files: 0.153747 seconds
-Time to mutiply matrices: 0.179819 seconds
+Time to multiply matrices: 0.179819 seconds
 Time to save result matrix to file: 0.159781 seconds
 
 Time to read files: 0.131323 seconds
-Time to mutiply matrices: 0.175974 seconds
+Time to multiply matrices: 0.175974 seconds
 Time to save result matrix to file: 0.160783 seconds
 
 
 -----------------53 Thread(s)-----------------
 Time to read files: 0.166571 seconds
-Time to mutiply matrices: 0.172147 seconds
+Time to multiply matrices: 0.172147 seconds
 Time to save result matrix to file: 0.16077 seconds
 
 Time to read files: 0.131318 seconds
-Time to mutiply matrices: 0.181233 seconds
+Time to multiply matrices: 0.181233 seconds
 Time to save result matrix to file: 0.158644 seconds
 
 Time to read files: 0.129572 seconds
-Time to mutiply matrices: 0.175814 seconds
+Time to multiply matrices: 0.175814 seconds
 Time to save result matrix to file: 0.15946 seconds
 
 Time to read files: 0.132009 seconds
-Time to mutiply matrices: 0.179114 seconds
+Time to multiply matrices: 0.179114 seconds
 Time to save result matrix to file: 0.159167 seconds
 
 Time to read files: 0.135282 seconds
-Time to mutiply matrices: 0.175864 seconds
+Time to multiply matrices: 0.175864 seconds
 Time to save result matrix to file: 0.159093 seconds
 
 Time to read files: 0.131999 seconds
-Time to mutiply matrices: 0.176529 seconds
+Time to multiply matrices: 0.176529 seconds
 Time to save result matrix to file: 0.159397 seconds
 
 Time to read files: 0.127916 seconds
-Time to mutiply matrices: 0.179182 seconds
+Time to multiply matrices: 0.179182 seconds
 Time to save result matrix to file: 0.161216 seconds
 
 Time to read files: 0.140733 seconds
-Time to mutiply matrices: 0.1789 seconds
+Time to multiply matrices: 0.1789 seconds
 Time to save result matrix to file: 0.15841 seconds
 
 Time to read files: 0.131644 seconds
-Time to mutiply matrices: 0.17651 seconds
+Time to multiply matrices: 0.17651 seconds
 Time to save result matrix to file: 0.160637 seconds
 
 Time to read files: 0.127251 seconds
-Time to mutiply matrices: 0.174647 seconds
+Time to multiply matrices: 0.174647 seconds
 Time to save result matrix to file: 0.159144 seconds
 
 
 -----------------54 Thread(s)-----------------
 Time to read files: 0.131458 seconds
-Time to mutiply matrices: 0.177244 seconds
+Time to multiply matrices: 0.177244 seconds
 Time to save result matrix to file: 0.159462 seconds
 
 Time to read files: 0.170374 seconds
-Time to mutiply matrices: 0.173887 seconds
+Time to multiply matrices: 0.173887 seconds
 Time to save result matrix to file: 0.158423 seconds
 
 Time to read files: 0.130914 seconds
-Time to mutiply matrices: 0.180137 seconds
+Time to multiply matrices: 0.180137 seconds
 Time to save result matrix to file: 0.160715 seconds
 
 Time to read files: 0.130474 seconds
-Time to mutiply matrices: 0.183329 seconds
+Time to multiply matrices: 0.183329 seconds
 Time to save result matrix to file: 0.167429 seconds
 
 Time to read files: 0.140878 seconds
-Time to mutiply matrices: 0.177293 seconds
+Time to multiply matrices: 0.177293 seconds
 Time to save result matrix to file: 0.158694 seconds
 
 Time to read files: 0.132939 seconds
-Time to mutiply matrices: 0.174048 seconds
+Time to multiply matrices: 0.174048 seconds
 Time to save result matrix to file: 0.165563 seconds
 
 Time to read files: 0.141581 seconds
-Time to mutiply matrices: 0.177829 seconds
+Time to multiply matrices: 0.177829 seconds
 Time to save result matrix to file: 0.16316 seconds
 
 Time to read files: 0.127444 seconds
-Time to mutiply matrices: 0.175111 seconds
+Time to multiply matrices: 0.175111 seconds
 Time to save result matrix to file: 0.1586 seconds
 
 Time to read files: 0.131632 seconds
-Time to mutiply matrices: 0.175068 seconds
+Time to multiply matrices: 0.175068 seconds
 Time to save result matrix to file: 0.164522 seconds
 
 Time to read files: 0.130317 seconds
-Time to mutiply matrices: 0.17744 seconds
+Time to multiply matrices: 0.17744 seconds
 Time to save result matrix to file: 0.160402 seconds
 
 
 -----------------55 Thread(s)-----------------
 Time to read files: 0.134436 seconds
-Time to mutiply matrices: 0.182818 seconds
+Time to multiply matrices: 0.182818 seconds
 Time to save result matrix to file: 0.161624 seconds
 
 Time to read files: 0.127037 seconds
-Time to mutiply matrices: 0.178845 seconds
+Time to multiply matrices: 0.178845 seconds
 Time to save result matrix to file: 0.159377 seconds
 
 Time to read files: 0.136375 seconds
-Time to mutiply matrices: 0.1781 seconds
+Time to multiply matrices: 0.1781 seconds
 Time to save result matrix to file: 0.162043 seconds
 
 Time to read files: 0.131805 seconds
-Time to mutiply matrices: 0.176613 seconds
+Time to multiply matrices: 0.176613 seconds
 Time to save result matrix to file: 0.162299 seconds
 
 Time to read files: 0.127481 seconds
-Time to mutiply matrices: 0.179123 seconds
+Time to multiply matrices: 0.179123 seconds
 Time to save result matrix to file: 0.160489 seconds
 
 Time to read files: 0.171514 seconds
-Time to mutiply matrices: 0.197244 seconds
+Time to multiply matrices: 0.197244 seconds
 Time to save result matrix to file: 0.159483 seconds
 
 Time to read files: 0.142015 seconds
-Time to mutiply matrices: 0.175507 seconds
+Time to multiply matrices: 0.175507 seconds
 Time to save result matrix to file: 0.158184 seconds
 
 Time to read files: 0.165562 seconds
-Time to mutiply matrices: 0.171992 seconds
+Time to multiply matrices: 0.171992 seconds
 Time to save result matrix to file: 0.161416 seconds
 
 Time to read files: 0.13862 seconds
-Time to mutiply matrices: 0.196529 seconds
+Time to multiply matrices: 0.196529 seconds
 Time to save result matrix to file: 0.162665 seconds
 
 Time to read files: 0.137306 seconds
-Time to mutiply matrices: 0.179066 seconds
+Time to multiply matrices: 0.179066 seconds
 Time to save result matrix to file: 0.159271 seconds
 
 
 -----------------56 Thread(s)-----------------
 Time to read files: 0.131018 seconds
-Time to mutiply matrices: 0.176507 seconds
+Time to multiply matrices: 0.176507 seconds
 Time to save result matrix to file: 0.158129 seconds
 
 Time to read files: 0.131314 seconds
-Time to mutiply matrices: 0.176565 seconds
+Time to multiply matrices: 0.176565 seconds
 Time to save result matrix to file: 0.158816 seconds
 
 Time to read files: 0.134688 seconds
-Time to mutiply matrices: 0.179641 seconds
+Time to multiply matrices: 0.179641 seconds
 Time to save result matrix to file: 0.159121 seconds
 
 Time to read files: 0.129467 seconds
-Time to mutiply matrices: 0.174711 seconds
+Time to multiply matrices: 0.174711 seconds
 Time to save result matrix to file: 0.167264 seconds
 
 Time to read files: 0.130911 seconds
-Time to mutiply matrices: 0.17735 seconds
+Time to multiply matrices: 0.17735 seconds
 Time to save result matrix to file: 0.15846 seconds
 
 Time to read files: 0.130508 seconds
-Time to mutiply matrices: 0.175804 seconds
+Time to multiply matrices: 0.175804 seconds
 Time to save result matrix to file: 0.158167 seconds
 
 Time to read files: 0.131292 seconds
-Time to mutiply matrices: 0.179848 seconds
+Time to multiply matrices: 0.179848 seconds
 Time to save result matrix to file: 0.159312 seconds
 
 Time to read files: 0.137148 seconds
-Time to mutiply matrices: 0.177714 seconds
+Time to multiply matrices: 0.177714 seconds
 Time to save result matrix to file: 0.160132 seconds
 
 Time to read files: 0.127242 seconds
-Time to mutiply matrices: 0.173966 seconds
+Time to multiply matrices: 0.173966 seconds
 Time to save result matrix to file: 0.159027 seconds
 
 Time to read files: 0.140406 seconds
-Time to mutiply matrices: 0.178555 seconds
+Time to multiply matrices: 0.178555 seconds
 Time to save result matrix to file: 0.15962 seconds
 
 
 -----------------57 Thread(s)-----------------
 Time to read files: 0.137265 seconds
-Time to mutiply matrices: 0.180803 seconds
+Time to multiply matrices: 0.180803 seconds
 Time to save result matrix to file: 0.159434 seconds
 
 Time to read files: 0.131744 seconds
-Time to mutiply matrices: 0.175316 seconds
+Time to multiply matrices: 0.175316 seconds
 Time to save result matrix to file: 0.159128 seconds
 
 Time to read files: 0.142445 seconds
-Time to mutiply matrices: 0.233203 seconds
+Time to multiply matrices: 0.233203 seconds
 Time to save result matrix to file: 0.158582 seconds
 
 Time to read files: 0.137494 seconds
-Time to mutiply matrices: 0.175986 seconds
+Time to multiply matrices: 0.175986 seconds
 Time to save result matrix to file: 0.1674 seconds
 
 Time to read files: 0.166511 seconds
-Time to mutiply matrices: 0.176464 seconds
+Time to multiply matrices: 0.176464 seconds
 Time to save result matrix to file: 0.158078 seconds
 
 Time to read files: 0.130654 seconds
-Time to mutiply matrices: 0.176365 seconds
+Time to multiply matrices: 0.176365 seconds
 Time to save result matrix to file: 0.160126 seconds
 
 Time to read files: 0.135642 seconds
-Time to mutiply matrices: 0.176593 seconds
+Time to multiply matrices: 0.176593 seconds
 Time to save result matrix to file: 0.158263 seconds
 
 Time to read files: 0.141572 seconds
-Time to mutiply matrices: 0.173468 seconds
+Time to multiply matrices: 0.173468 seconds
 Time to save result matrix to file: 0.158821 seconds
 
 Time to read files: 0.130985 seconds
-Time to mutiply matrices: 0.17601 seconds
+Time to multiply matrices: 0.17601 seconds
 Time to save result matrix to file: 0.158517 seconds
 
 Time to read files: 0.133619 seconds
-Time to mutiply matrices: 0.175228 seconds
+Time to multiply matrices: 0.175228 seconds
 Time to save result matrix to file: 0.161685 seconds
 
 
 -----------------58 Thread(s)-----------------
 Time to read files: 0.138912 seconds
-Time to mutiply matrices: 0.177432 seconds
+Time to multiply matrices: 0.177432 seconds
 Time to save result matrix to file: 0.159538 seconds
 
 Time to read files: 0.130738 seconds
-Time to mutiply matrices: 0.190868 seconds
+Time to multiply matrices: 0.190868 seconds
 Time to save result matrix to file: 0.15994 seconds
 
 Time to read files: 0.131263 seconds
-Time to mutiply matrices: 0.176608 seconds
+Time to multiply matrices: 0.176608 seconds
 Time to save result matrix to file: 0.160279 seconds
 
 Time to read files: 0.128036 seconds
-Time to mutiply matrices: 0.178174 seconds
+Time to multiply matrices: 0.178174 seconds
 Time to save result matrix to file: 0.168515 seconds
 
 Time to read files: 0.131877 seconds
-Time to mutiply matrices: 0.175537 seconds
+Time to multiply matrices: 0.175537 seconds
 Time to save result matrix to file: 0.161973 seconds
 
 Time to read files: 0.130746 seconds
-Time to mutiply matrices: 0.178025 seconds
+Time to multiply matrices: 0.178025 seconds
 Time to save result matrix to file: 0.158828 seconds
 
 Time to read files: 0.13464 seconds
-Time to mutiply matrices: 0.1748 seconds
+Time to multiply matrices: 0.1748 seconds
 Time to save result matrix to file: 0.160284 seconds
 
 Time to read files: 0.134143 seconds
-Time to mutiply matrices: 0.178359 seconds
+Time to multiply matrices: 0.178359 seconds
 Time to save result matrix to file: 0.158887 seconds
 
 Time to read files: 0.131309 seconds
-Time to mutiply matrices: 0.177438 seconds
+Time to multiply matrices: 0.177438 seconds
 Time to save result matrix to file: 0.158621 seconds
 
 Time to read files: 0.128205 seconds
-Time to mutiply matrices: 0.179268 seconds
+Time to multiply matrices: 0.179268 seconds
 Time to save result matrix to file: 0.159516 seconds
 
 
 -----------------59 Thread(s)-----------------
 Time to read files: 0.130803 seconds
-Time to mutiply matrices: 0.179578 seconds
+Time to multiply matrices: 0.179578 seconds
 Time to save result matrix to file: 0.158716 seconds
 
 Time to read files: 0.1712 seconds
-Time to mutiply matrices: 0.179888 seconds
+Time to multiply matrices: 0.179888 seconds
 Time to save result matrix to file: 0.157976 seconds
 
 Time to read files: 0.128113 seconds
-Time to mutiply matrices: 0.183672 seconds
+Time to multiply matrices: 0.183672 seconds
 Time to save result matrix to file: 0.159518 seconds
 
 Time to read files: 0.165214 seconds
-Time to mutiply matrices: 0.173574 seconds
+Time to multiply matrices: 0.173574 seconds
 Time to save result matrix to file: 0.16765 seconds
 
 Time to read files: 0.139541 seconds
-Time to mutiply matrices: 0.181904 seconds
+Time to multiply matrices: 0.181904 seconds
 Time to save result matrix to file: 0.160889 seconds
 
 Time to read files: 0.13251 seconds
-Time to mutiply matrices: 0.18728 seconds
+Time to multiply matrices: 0.18728 seconds
 Time to save result matrix to file: 0.160568 seconds
 
 Time to read files: 0.128058 seconds
-Time to mutiply matrices: 0.177081 seconds
+Time to multiply matrices: 0.177081 seconds
 Time to save result matrix to file: 0.160487 seconds
 
 Time to read files: 0.135861 seconds
-Time to mutiply matrices: 0.184736 seconds
+Time to multiply matrices: 0.184736 seconds
 Time to save result matrix to file: 0.158592 seconds
 
 Time to read files: 0.13966 seconds
-Time to mutiply matrices: 0.190777 seconds
+Time to multiply matrices: 0.190777 seconds
 Time to save result matrix to file: 0.159097 seconds
 
 Time to read files: 0.142545 seconds
-Time to mutiply matrices: 0.176033 seconds
+Time to multiply matrices: 0.176033 seconds
 Time to save result matrix to file: 0.159192 seconds
 
 
 -----------------60 Thread(s)-----------------
 Time to read files: 0.131498 seconds
-Time to mutiply matrices: 0.178517 seconds
+Time to multiply matrices: 0.178517 seconds
 Time to save result matrix to file: 0.159664 seconds
 
 Time to read files: 0.131443 seconds
-Time to mutiply matrices: 0.174689 seconds
+Time to multiply matrices: 0.174689 seconds
 Time to save result matrix to file: 0.159614 seconds
 
 Time to read files: 0.127751 seconds
-Time to mutiply matrices: 0.181589 seconds
+Time to multiply matrices: 0.181589 seconds
 Time to save result matrix to file: 0.159392 seconds
 
 Time to read files: 0.132016 seconds
-Time to mutiply matrices: 0.177562 seconds
+Time to multiply matrices: 0.177562 seconds
 Time to save result matrix to file: 0.169232 seconds
 
 Time to read files: 0.141991 seconds
-Time to mutiply matrices: 0.205382 seconds
+Time to multiply matrices: 0.205382 seconds
 Time to save result matrix to file: 0.157973 seconds
 
 Time to read files: 0.128104 seconds
-Time to mutiply matrices: 0.180807 seconds
+Time to multiply matrices: 0.180807 seconds
 Time to save result matrix to file: 0.159486 seconds
 
 Time to read files: 0.129404 seconds
-Time to mutiply matrices: 0.174797 seconds
+Time to multiply matrices: 0.174797 seconds
 Time to save result matrix to file: 0.15862 seconds
 
 Time to read files: 0.142152 seconds
-Time to mutiply matrices: 0.182188 seconds
+Time to multiply matrices: 0.182188 seconds
 Time to save result matrix to file: 0.159947 seconds
 
 Time to read files: 0.133244 seconds
-Time to mutiply matrices: 0.174792 seconds
+Time to multiply matrices: 0.174792 seconds
 Time to save result matrix to file: 0.158031 seconds
 
 Time to read files: 0.170381 seconds
-Time to mutiply matrices: 0.179597 seconds
+Time to multiply matrices: 0.179597 seconds
 Time to save result matrix to file: 0.161321 seconds
 
 
 -----------------61 Thread(s)-----------------
 Time to read files: 0.134912 seconds
-Time to mutiply matrices: 0.175421 seconds
+Time to multiply matrices: 0.175421 seconds
 Time to save result matrix to file: 0.165966 seconds
 
 Time to read files: 0.138574 seconds
-Time to mutiply matrices: 0.181961 seconds
+Time to multiply matrices: 0.181961 seconds
 Time to save result matrix to file: 0.159294 seconds
 
 Time to read files: 0.142196 seconds
-Time to mutiply matrices: 0.178368 seconds
+Time to multiply matrices: 0.178368 seconds
 Time to save result matrix to file: 0.161249 seconds
 
 Time to read files: 0.139718 seconds
-Time to mutiply matrices: 0.180095 seconds
+Time to multiply matrices: 0.180095 seconds
 Time to save result matrix to file: 0.167429 seconds
 
 Time to read files: 0.132033 seconds
-Time to mutiply matrices: 0.182268 seconds
+Time to multiply matrices: 0.182268 seconds
 Time to save result matrix to file: 0.15943 seconds
 
 Time to read files: 0.130826 seconds
-Time to mutiply matrices: 0.20054 seconds
+Time to multiply matrices: 0.20054 seconds
 Time to save result matrix to file: 0.160943 seconds
 
 Time to read files: 0.132043 seconds
-Time to mutiply matrices: 0.174532 seconds
+Time to multiply matrices: 0.174532 seconds
 Time to save result matrix to file: 0.159673 seconds
 
 Time to read files: 0.131071 seconds
-Time to mutiply matrices: 0.195726 seconds
+Time to multiply matrices: 0.195726 seconds
 Time to save result matrix to file: 0.160945 seconds
 
 Time to read files: 0.131792 seconds
-Time to mutiply matrices: 0.194234 seconds
+Time to multiply matrices: 0.194234 seconds
 Time to save result matrix to file: 0.166149 seconds
 
 Time to read files: 0.173374 seconds
-Time to mutiply matrices: 0.240493 seconds
+Time to multiply matrices: 0.240493 seconds
 Time to save result matrix to file: 0.158492 seconds
 
 
 -----------------62 Thread(s)-----------------
 Time to read files: 0.130579 seconds
-Time to mutiply matrices: 0.175729 seconds
+Time to multiply matrices: 0.175729 seconds
 Time to save result matrix to file: 0.158463 seconds
 
 Time to read files: 0.132292 seconds
-Time to mutiply matrices: 0.178857 seconds
+Time to multiply matrices: 0.178857 seconds
 Time to save result matrix to file: 0.163509 seconds
 
 Time to read files: 0.135602 seconds
-Time to mutiply matrices: 0.175307 seconds
+Time to multiply matrices: 0.175307 seconds
 Time to save result matrix to file: 0.161217 seconds
 
 Time to read files: 0.131331 seconds
-Time to mutiply matrices: 0.176671 seconds
+Time to multiply matrices: 0.176671 seconds
 Time to save result matrix to file: 0.158467 seconds
 
 Time to read files: 0.13103 seconds
-Time to mutiply matrices: 0.178891 seconds
+Time to multiply matrices: 0.178891 seconds
 Time to save result matrix to file: 0.160964 seconds
 
 Time to read files: 0.173421 seconds
-Time to mutiply matrices: 0.210895 seconds
+Time to multiply matrices: 0.210895 seconds
 Time to save result matrix to file: 0.162549 seconds
 
 Time to read files: 0.136938 seconds
-Time to mutiply matrices: 0.179761 seconds
+Time to multiply matrices: 0.179761 seconds
 Time to save result matrix to file: 0.159398 seconds
 
 Time to read files: 0.128516 seconds
-Time to mutiply matrices: 0.176327 seconds
+Time to multiply matrices: 0.176327 seconds
 Time to save result matrix to file: 0.159914 seconds
 
 Time to read files: 0.131615 seconds
-Time to mutiply matrices: 0.192632 seconds
+Time to multiply matrices: 0.192632 seconds
 Time to save result matrix to file: 0.159231 seconds
 
 Time to read files: 0.127103 seconds
-Time to mutiply matrices: 0.178324 seconds
+Time to multiply matrices: 0.178324 seconds
 Time to save result matrix to file: 0.159153 seconds
 
 
 -----------------63 Thread(s)-----------------
 Time to read files: 0.130453 seconds
-Time to mutiply matrices: 0.179566 seconds
+Time to multiply matrices: 0.179566 seconds
 Time to save result matrix to file: 0.160242 seconds
 
 Time to read files: 0.127996 seconds
-Time to mutiply matrices: 0.179301 seconds
+Time to multiply matrices: 0.179301 seconds
 Time to save result matrix to file: 0.160701 seconds
 
 Time to read files: 0.131538 seconds
-Time to mutiply matrices: 0.178778 seconds
+Time to multiply matrices: 0.178778 seconds
 Time to save result matrix to file: 0.162401 seconds
 
 Time to read files: 0.128081 seconds
-Time to mutiply matrices: 0.18155 seconds
+Time to multiply matrices: 0.18155 seconds
 Time to save result matrix to file: 0.168647 seconds
 
 Time to read files: 0.127226 seconds
-Time to mutiply matrices: 0.181058 seconds
+Time to multiply matrices: 0.181058 seconds
 Time to save result matrix to file: 0.159229 seconds
 
 Time to read files: 0.131302 seconds
-Time to mutiply matrices: 0.180166 seconds
+Time to multiply matrices: 0.180166 seconds
 Time to save result matrix to file: 0.159442 seconds
 
 Time to read files: 0.132074 seconds
-Time to mutiply matrices: 0.183458 seconds
+Time to multiply matrices: 0.183458 seconds
 Time to save result matrix to file: 0.160922 seconds
 
 Time to read files: 0.127141 seconds
-Time to mutiply matrices: 0.181867 seconds
+Time to multiply matrices: 0.181867 seconds
 Time to save result matrix to file: 0.159095 seconds
 
 Time to read files: 0.127272 seconds
-Time to mutiply matrices: 0.175531 seconds
+Time to multiply matrices: 0.175531 seconds
 Time to save result matrix to file: 0.159209 seconds
 
 Time to read files: 0.131232 seconds
-Time to mutiply matrices: 0.17516 seconds
+Time to multiply matrices: 0.17516 seconds
 Time to save result matrix to file: 0.15927 seconds
 
 
 -----------------64 Thread(s)-----------------
 Time to read files: 0.139644 seconds
-Time to mutiply matrices: 0.181279 seconds
+Time to multiply matrices: 0.181279 seconds
 Time to save result matrix to file: 0.15942 seconds
 
 Time to read files: 0.13724 seconds
-Time to mutiply matrices: 0.175886 seconds
+Time to multiply matrices: 0.175886 seconds
 Time to save result matrix to file: 0.158231 seconds
 
 Time to read files: 0.134157 seconds
-Time to mutiply matrices: 0.177022 seconds
+Time to multiply matrices: 0.177022 seconds
 Time to save result matrix to file: 0.16003 seconds
 
 Time to read files: 0.134776 seconds
-Time to mutiply matrices: 0.184484 seconds
+Time to multiply matrices: 0.184484 seconds
 Time to save result matrix to file: 0.166382 seconds
 
 Time to read files: 0.130525 seconds
-Time to mutiply matrices: 0.175402 seconds
+Time to multiply matrices: 0.175402 seconds
 Time to save result matrix to file: 0.159319 seconds
 
 Time to read files: 0.14324 seconds
-Time to mutiply matrices: 0.186439 seconds
+Time to multiply matrices: 0.186439 seconds
 Time to save result matrix to file: 0.161981 seconds
 
 Time to read files: 0.137386 seconds
-Time to mutiply matrices: 0.178385 seconds
+Time to multiply matrices: 0.178385 seconds
 Time to save result matrix to file: 0.159348 seconds
 
 Time to read files: 0.130792 seconds
-Time to mutiply matrices: 0.17661 seconds
+Time to multiply matrices: 0.17661 seconds
 Time to save result matrix to file: 0.161341 seconds
 
 Time to read files: 0.130627 seconds
-Time to mutiply matrices: 0.180798 seconds
+Time to multiply matrices: 0.180798 seconds
 Time to save result matrix to file: 0.15813 seconds
 
 Time to read files: 0.13986 seconds
-Time to mutiply matrices: 0.179479 seconds
+Time to multiply matrices: 0.179479 seconds
 Time to save result matrix to file: 0.159027 seconds
 
