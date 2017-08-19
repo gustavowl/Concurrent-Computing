@@ -161,7 +161,7 @@ int main(int argc, char* argv[]) {
 		end_time = chrono::high_resolution_clock::now();
 		time_span = chrono::duration_cast<chrono::duration<double>>(
 			end_time - start_time);
-		cout << "Time to mutiply matrices: " << 
+		cout << "Time to multiply matrices: " << 
 			time_span.count() << " seconds" << endl;
 		
 		//print_matrix(matrix_c, m, n);
