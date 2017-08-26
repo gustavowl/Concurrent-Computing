@@ -37,7 +37,6 @@ if [ $# = 2 ]; then
 			fi
 
 			seconds=${seconds:0:$[$index - 1]}
-			echo $seconds
 			if [ $first = false ]; then
 				echo -ne ', '$(echo "$minutes * 60 + $seconds * 10 ^ $submultiple" | bc -l) >> $2
 			else
