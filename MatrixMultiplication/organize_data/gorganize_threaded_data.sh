@@ -7,9 +7,39 @@ if [ $# = 2 ]; then
 	data_array[$index]=0
 	while read -r line; do
 		if [ `expr match "$line" 'Time to multiply matrices: '` -gt 0 ]; then
-			temp=${line:27}
-			temp=${temp:0:`expr index "$temp" ' '`}
-			data_array[$index]=$temp
+			seconds=${line:27}
+			minutes=0
+			submultiple=0
+			#echo $[$seconds * 10]
+			measure_index=-1
+
+			if [ `expr index "$seconds" 'n'` -gt 0 ]; then
+				#nanosecond
+				submultiple=-9
+				measure_index=$[`expr index "$seconds" 'n'`]
+			elif [ `expr index "$seconds" 'u'` -gt 0 ]; then
+				#microsecond
+				submultiple=-6
+				measure_index=$[`expr index "$seconds" 'u'`]
+			elif [ $[`expr index "$seconds" 's'` - `expr index "$seconds" 'm'`] -eq 1 ]; then
+				#millisecond
+				submultiple=-3
+				measure_index=$[`expr index "$seconds" 'm'`]
+			elif [ `expr index "$seconds" 'm'` -gt 0 ]; then
+				#minute
+				submultiple=0
+				measure_index=$[`expr index "$seconds" 'm'`]
+				minutes=${seconds:0:$[$measure_index - 1]}
+				seconds=${seconds:measure_index}
+				measure_index=$[`expr index "$seconds" 's'`]
+			else
+				#second
+				submultiple=0
+				measure_index=$[`expr index "$seconds" 's'`]
+			fi
+			seconds=${seconds:0:$[$measure_index - 1]}
+
+			data_array[$index]=$(echo "$minutes * 60 + $seconds * 10 ^ $submultiple" | bc -l)
 			#insertion sort
 			for i in `seq $index -1 1`; do
 				if [ $(echo "${data_array[$[$i - 1]]} > ${data_array[$i]}" | bc -l) = 1 ]; then
